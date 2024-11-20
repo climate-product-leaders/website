@@ -438,6 +438,10 @@ table td {
 
 /** We are adding this
 */
+ul {
+  list-style-type: "✓  ";
+}
+
 .playbook-section {
   margin-bottom: 0px;
 }
@@ -788,5 +792,3 @@ h1, h2, h3, h4, h5, h6, .site-header {
 .wrapper, .site-header {
   border-bottom: none;
 }
-
-/*# sourceMappingURL=style.css.map */
