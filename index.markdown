@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hello world, this is climate product leaders!
+
+<b> This is bold text </b>
