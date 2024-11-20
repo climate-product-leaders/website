@@ -5,8 +5,22 @@
 layout: home
 ---
 
-Hello world, this is climate product leaders!
+![](/website/assets/img/mine-dithered.png)
 
-<b> This is bold text </b>
+# Digital Is Physical
 
-<p markdown="1">This is text **markdown?**</p>
+The digital revolution, while transformative, carries a profound
+environmental footprint. It is estimated that the Information and
+Communications Technology (ICT) sector alone accounts for
+approximately 3.7% of global greenhouse gas emissions—a figure larger
+than the entire aviation industry and equivalent to road freight. With
+projections suggesting that this number may reach up to 14% by 2040,
+the consequences for our climate and biodiversity cannot be overstated. 
+
+This playbook seeks to illuminate the often-overlooked fact that 
+the digital world is indeed physical: tethered to the environment in a
+multitude of ways. Every byte of data, every online transaction, and every
+digital innovation leaves a mark on our planet. It's crucial to recognize
+that the servers, data centers, end-user devices, and vast infrastructure
+enabling our digital experiences are grounded in physical reality,
+consuming environmental resources and energy.
