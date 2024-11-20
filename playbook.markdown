@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: playbook
 title: Playbook
 permalink: /playbook/
 order: 10
