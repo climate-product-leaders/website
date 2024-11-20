@@ -4,6 +4,7 @@ layout: base
 <div class="wrapper">
   {% assign practices = site.playbook %}
   {%- for practice in practices -%}
+  <h5 class="playbook-section">{{ practice.section }}</h5>
   <div class="playbook-numberAndTitle">
     <h3>{{practice.number }}</h3>
     <div>
