@@ -18,7 +18,7 @@ layout: base
       <h4>Why does it matter?</h4>
     </div>
     <div class="playbook-column2">
-      <p>{{ practice.matter }}</p>
+      <div>{{ practice.matter | markdownify }}</div>
     </div>
   </div>
   <div class="playbook-row">
@@ -26,7 +26,7 @@ layout: base
       <h4>What can I do?</h4>
     </div>
     <div class="playbook-column2">
-      <p>{{ practice.do }}</p>
+      <div>{{ practice.do | markdownify }}</div>
     </div>
   </div>
   <div class="playbook-row">
@@ -34,7 +34,7 @@ layout: base
       <h4>What does success look like?</h4>
     </div>
     <div class="playbook-column2">
-      <p>{{ practice.success }}</p>
+      <div>{{ practice.success | markdownify }}</div>
     </div>
   </div>
   <div class="playbook-row">
@@ -42,7 +42,7 @@ layout: base
       <h4>Things to consider</h4>
     </div>
     <div class="playbook-column2">
-      <p>{{ practice.consider }}</p>
+      <div>{{ practice.consider | markdownify }}</div>
     </div>
   </div>
 
