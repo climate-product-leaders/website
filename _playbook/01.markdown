@@ -21,39 +21,38 @@ matter: |
   to create a more impactful, deliberate, and effective action plan.
 
 do: |
-  Connect with the right people: It could be your ESG team,
+  - Connect with the right people: It could be your ESG team,
   sustainable leaders internally, or external providers with,
   ideally, some experience in digital emissions measurement
-  Quantify your company’s value chain (scope 1, 2 and 3) carbon
+  
+  - Quantify your company’s value chain (scope 1, 2 and 3) carbon
   emissions and perform a cradle-to-grave lifecycle analysis on
   your product
 
-  Include impacts from devices, networks, and data centers
+  - Include impacts from devices, networks, and data centers
   across their life cycle (manufacturing, distribution, usage,
   to end of life)
 
-  Choose the right metrics and make sure you can measure
+  - Choose the right metrics and make sure you can measure
   them fairly quickly to begin assessing improvements
   Identify measurement frequency and who’s leading the effort
 
-  Pinpoint opportunities for emission reduction. Consider the top-
-  line revenue opportunities (eg. customer acquisition, adoption of
-
-  greener products, improved performance and UX, etc.) and
+  - Pinpoint opportunities for emission reduction. Consider the top-
+  line revenue opportunities (eg. customer acquisition, adoption of greener products, improved performance and UX, etc.) and
   bottom-line cost savings (lower hosting fees, streamlined
   development, etc.) when presenting your findings to the team.
 
-  Prioritize opportunities for emission reduction and build
+  - Prioritize opportunities for emission reduction and build
   a roadmap accordingly
 
-  Repeat annually, or in line with your business development
+  - Repeat annually, or in line with your business development
   strategy
 
 success: |
-  Collective efforts to gauge and reduce ecological
+  - Collective efforts to gauge and reduce ecological
   footprints
 
-  Cross-departmental participation in green
+  - Cross-departmental participation in green
   initiatives
 
 consider: |
