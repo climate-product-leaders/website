@@ -1,70 +1,64 @@
 ---
 layout: best-practice
-title: "Measure the environmental impact of your business"
-number: 05
+title: "Prioritize climate initiatives"
+order: 05
+icon: /_includes/climate-icons/Icon-Building.svg
+number: "05"
 section: Embed in Your Rituals
 
 matter: |
-  Understanding the source of your business emissions is
-  important to prioritize the most effective pathway to reduce
-  emissions. It will also help you to realize the contribution of digital
-  technologies to the overall carbon footprint of your operations.
-
-  Since most emissions originate from your supply chain (scope 3),
-  measuring them can be challenging as you depend on suppliers
-  to provide this information and data points.
-
-  Nonetheless, as you cannot improve what you cannot measure,
-  your journey towards sustainability must commence here in order
-  to create a more impactful, deliberate, and effective action plan.
+  Your backlog holds great potential for engagement with 
+  your stakeholders and communicating what is important for the
+  product moving forward and why. Refining it with your team is a
+  great moment to incorporate and address climate considerations 
+  as part of the process. Once tickets are prioritized into a sprint, you
+  will have identified and mitigated some climate risks and impacts.
 
 do: |
-  Connect with the right people: It could be your ESG team,
-  sustainable leaders internally, or external providers with,
-  ideally, some experience in digital emissions measurement
-  Quantify your company’s value chain (scope 1, 2 and 3) carbon
-  emissions and perform a cradle-to-grave lifecycle analysis on
-  your product
+  - Create user stories (US) specific to climate and sustainability
+  that will help to support your entire product (systemic impact
+  across features)
 
-  Include impacts from devices, networks, and data centers
-  across their life cycle (manufacturing, distribution, usage,
-  to end of life)
+  - Use tags to identify climate and sustainability-specific US
 
-  Choose the right metrics and make sure you can measure
-  them fairly quickly to begin assessing improvements
-  Identify measurement frequency and who’s leading the effort
+  - Consider energy consumption and GHG emissions during
+  grooming and sprint preparation. Some features may be
+  ‘oversized’, and others may be more energy-consuming or
+  complex than you thought.
 
-  Pinpoint opportunities for emission reduction. Consider the top-
-  line revenue opportunities (eg. customer acquisition, adoption of
+  - Ideate on early-stage solutions and compare their
+  environmental impact
 
-  greener products, improved performance and UX, etc.) and
-  bottom-line cost savings (lower hosting fees, streamlined
-  development, etc.) when presenting your findings to the team.
+  - Assign an estimated environmental impact to user stories or
+  product increments, including both backend and frontend
+  impacts
 
-  Prioritize opportunities for emission reduction and build
-  a roadmap accordingly
+  - Prioritize climate and sustainability-specific user stories in your
+  sprint planning, just as you would prioritize bugs, security
+  tickets, technical debt, refactoring, etc.
 
-  Repeat annually, or in line with your business development
-  strategy
+  - Consider a climate-focused sprint as a means of applying all 
+  the best practices discussed. Normalise your climate action 
+  by ensuring that the same discussions continue to take place 
+  on an ongoing basis.
 
 success: |
-  Collective efforts to gauge and reduce ecological
-  footprints
+  - Enhanced user experience leading to improved
+  conversion rates and overall satisfaction
 
-  Cross-departmental participation in green
-  initiatives
+  - Adoption of cleaner electricity sources 
+  for operations
+
+  - Established targets for reduced carbon and 
+  greenhouse gas emissions
 
 consider: |
-  As a product leader, it's important to recognize that your
-  impact and influence can extend beyond the digital realm. As an
-  example, if shipping emissions are a big chunk of the emissions
-  profile of your e-commerce business, you could lower emissions
-  by reducing the return rate of your physical product (by helping
-  users buy the right product, at the right size, colour, specs, etc.)
-  and by partnering with sustainable, electric local shipping
-  companies.
-  In 2022, approximately 16.5% of items purchased online were
-  returned in the US. Imagine the impact you could make by
-  offering a better purchasing experience! Read more on how to
-  Influence your value chain and partners.
+  When you Track your digital footprint; leveraging
+  data to explain and support the prioritization of climate features
+  that will help reduce your emissions will be easier.
+
+  We recommend that you keep the discussion about the impact
+  you are trying to achieve rather than the specific way to improve
+  performance and metrics. Empower and trust your team to know
+  what to do if you are clear about priorities and acceptable tradeoffs. Aim for improvement, not perfection. Making climate part of the prioritization process is a huge step forward!
 ---

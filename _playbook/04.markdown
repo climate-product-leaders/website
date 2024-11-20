@@ -1,70 +1,85 @@
 ---
 layout: best-practice
-title: "Measure the environmental impact of your business"
-number: 04
+title: "Set environmental OKRs"
+order: 04
+icon: /_includes/climate-icons/Icon-Building.svg
+number: "04"
 section: Embed in Your Rituals
 
 matter: |
-  Understanding the source of your business emissions is
-  important to prioritize the most effective pathway to reduce
-  emissions. It will also help you to realize the contribution of digital
-  technologies to the overall carbon footprint of your operations.
-
-  Since most emissions originate from your supply chain (scope 3),
-  measuring them can be challenging as you depend on suppliers
-  to provide this information and data points.
-
-  Nonetheless, as you cannot improve what you cannot measure,
-  your journey towards sustainability must commence here in order
-  to create a more impactful, deliberate, and effective action plan.
+  Decarbonization efforts and net-zero targets are becoming
+  the new norms and key for your brand reputation and trust.
+  Whether or not you use OKRs or an alternative approach to
+  quantifying your successes, setting environmentally-focused
+  objectives alongside your business goals, that the whole team can
+  get on board with, is the difference between an ambition, and a
+  successful emissions reduction strategy.
 
 do: |
-  Connect with the right people: It could be your ESG team,
-  sustainable leaders internally, or external providers with,
-  ideally, some experience in digital emissions measurement
-  Quantify your company’s value chain (scope 1, 2 and 3) carbon
-  emissions and perform a cradle-to-grave lifecycle analysis on
-  your product
+  - Identify an expert in digital sustainability with clear support
+  from leadership and with allocated resources (employees and
+  budget)
 
-  Include impacts from devices, networks, and data centers
-  across their life cycle (manufacturing, distribution, usage,
-  to end of life)
+  - Have a look at the Science Based Targets Initiative (SBTi) and
+  its recommendation for 50% emissions reduction by 2030 (on
+  all three scopes) with a 90% long-term target for 2040 or 2050.
 
-  Choose the right metrics and make sure you can measure
-  them fairly quickly to begin assessing improvements
-  Identify measurement frequency and who’s leading the effort
+  - Focus on cutting emissions by 90% first, then remove or offset
+  the remaining 10% (according to the SBTi Net Zero Standard)
 
-  Pinpoint opportunities for emission reduction. Consider the top-
-  line revenue opportunities (eg. customer acquisition, adoption of
+  - Choose the right metrics
 
-  greener products, improved performance and UX, etc.) and
-  bottom-line cost savings (lower hosting fees, streamlined
-  development, etc.) when presenting your findings to the team.
+  - Define some inspiring climate-specific and outcome-oriented
+  objectives (e.g. reduce digital carbon footprint by 5% by the end
+  of the quarter)
 
-  Prioritize opportunities for emission reduction and build
-  a roadmap accordingly
+  - Embed climate-related Key Results in non-climate Objectives
+  (e.g. reduce cloud bill as part of a profit maximization objective)
 
-  Repeat annually, or in line with your business development
-  strategy
+  - Include an environmental input into your prioritization
+  framework, on top of the business and user values
+
+  - Track your digital footprint, set up dashboards and
+  monitor after each release or sprint
+
+  - Report on environmental progress and % of completion on a
+  weekly, monthly, quarterly, and yearly basis. It should not be any
+  different than other Key Results.
 
 success: |
-  Collective efforts to gauge and reduce ecological
-  footprints
+  - A clearly articulated vision and mission
+  underscoring commitment to societal and global
+  challenges
 
-  Cross-departmental participation in green
+  - Cross-departmental participation in green
   initiatives
 
+  - Adoption of cleaner electricity sources for
+  operations
+
+  - Established targets for reduced carbon and
+  greenhouse gas emissions
+  
+  - Employee retention reflecting a positive and
+  sustainable work environment
+
 consider: |
-  As a product leader, it's important to recognize that your
-  impact and influence can extend beyond the digital realm. As an
-  example, if shipping emissions are a big chunk of the emissions
-  profile of your e-commerce business, you could lower emissions
-  by reducing the return rate of your physical product (by helping
-  users buy the right product, at the right size, colour, specs, etc.)
-  and by partnering with sustainable, electric local shipping
-  companies.
-  In 2022, approximately 16.5% of items purchased online were
-  returned in the US. Imagine the impact you could make by
-  offering a better purchasing experience! Read more on how to
-  Influence your value chain and partners.
+  A lot of groundwork needs to happen before succeeding in
+  prioritizing climate or environmental OKRs. Organize talks,
+  raise awareness, and promote training, Set up a climate
+  working group, and Convince and collaborate with
+  internal stakeholders will be needed to maximize your
+  chances.
+
+  In the meantime, you can also apply best practices from the next
+  2 chapters: avoiding building useless stuff, considering hardware
+  impacts, striping and simplifying your experience, decluttering
+  your product, etc. 
+  
+  There are climate-positive product management decisions and
+  best practices that won’t require your whole organization or
+  executive team to approve (such as setting a page weight limit 
+  in your Definition of Done). Lead by example, showcase your
+  success, and you will organically create a buzz around this 
+  work stream.
 ---
