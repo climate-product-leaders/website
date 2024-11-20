@@ -448,6 +448,12 @@ table td {
   align-items: flex-end;
   height: 40px;
 }
+.playbook-topRow {
+  display: flex;
+}
+.playbook-topRow h3 {
+  margin-bottom: 0px;
+}
 .playbook-row {
   display: flex;
   margin-bottom: 20px;
