@@ -1,0 +1,10 @@
+---
+layout: playbook-item
+title: "Measure the environmental impact of your business"
+number: 01
+section: Embed in Your Rituals
+matter: lorem ipsum dolor sit amet
+do: hello world
+success: oh hai
+consider: fig cat
+---
