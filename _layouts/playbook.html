@@ -1,0 +1,14 @@
+---
+layout: base
+---
+<div class="wrapper">
+  {% assign practices = site.playbook %}
+  {%- for practice in practices -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ practice.url | relative_url }}">
+            {{ practice.title | escape }}
+          </a>
+        
+      {%- endfor -%}
+</div>
