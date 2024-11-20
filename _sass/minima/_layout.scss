@@ -10,15 +10,16 @@
   }
 
   &-row {
-    display: flex
+    display: flex;
+    margin-bottom: 20px;
   }
 
   &-column1 {
-    flex: 25%
+    flex: 28%
   }
 
   &-column2 {
-    flex: 75%
+    flex: 72%
   }
 
   &-hr {

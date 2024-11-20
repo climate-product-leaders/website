@@ -446,12 +446,13 @@ table td {
 }
 .playbook-row {
   display: flex;
+  margin-bottom: 20px;
 }
 .playbook-column1 {
-  flex: 25%;
+  flex: 28%;
 }
 .playbook-column2 {
-  flex: 75%;
+  flex: 72%;
 }
 .playbook-hr {
   margin: 10px 0px;
