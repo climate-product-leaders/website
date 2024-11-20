@@ -1,3 +1,38 @@
+/** We are adding this
+*/
+
+.playbook {
+  &-section {
+    margin-bottom: 0px;
+  }
+
+  &-numberAndTitle {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 40px
+  }
+
+  &-row {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  &-column1 {
+    flex: 28%
+  }
+
+  &-column2 {
+    flex: 72%
+  }
+
+  &-hr {
+    margin: 10px 0px;
+    border: 0.5px solid black
+  }
+}
+
 /**
  * Site header
  */
