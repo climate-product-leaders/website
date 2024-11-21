@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Measure the environmental impact of your business"
 order: 01
-icon: /_includes/climate-icons/Icon-Building.svg
+icon: /assets/climate-icons/Icon-Building.svg
 number: "01"
 section: Embed In Your Rituals
 
