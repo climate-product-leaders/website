@@ -6,3 +6,17 @@ body { background-color: #FCFFE7; }
 h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
 
 .wrapper, .site-header { border-bottom: none; }
+
+.hero {
+  font-size: 3em;
+  font-weight: bold;
+  max-width: 600px;
+  text-align: left;
+  line-height: 1em;
+}
+
+.home img { margin-top: 2em; }
+
+.playbook-topRow { margin-top: 6em; }
+.playbook-topRow img { margin: 0; }
+.playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
