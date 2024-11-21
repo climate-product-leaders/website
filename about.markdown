@@ -5,8 +5,6 @@ permalink: /about/
 order: 30
 ---
 
-### About Us
-
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/antoine.jpeg)
 </div>
