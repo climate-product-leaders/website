@@ -20,3 +20,6 @@ h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
 .playbook-topRow { margin-top: 6em; }
 .playbook-topRow img { margin: 0; }
 .playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
+.playbook-topRow a { text-decoration: none; color: black; }
+.playbook-topRow a:hover { text-decoration: none; color: black; }
+#playbook-contents { list-style: none; margin-left: 0; }
