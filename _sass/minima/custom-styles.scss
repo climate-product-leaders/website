@@ -15,8 +15,8 @@ h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
   line-height: 1em;
 }
 
-p {
-  text-align: justify;
-}
+.home img { margin-top: 2em; }
 
-img { margin-top: 2em; margin-bottom: 2em; }
+.playbook-topRow { margin-top: 6em; }
+.playbook-topRow img { margin: 0; }
+.playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
