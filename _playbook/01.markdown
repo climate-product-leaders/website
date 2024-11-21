@@ -4,7 +4,7 @@ title: "Measure the environmental impact of your business"
 order: 01
 icon: /_includes/climate-icons/Icon-Building.svg
 number: "01"
-section: Embed in Your Rituals
+section: Embed In Your Rituals
 
 matter: |
   Understanding the source of your business emissions is

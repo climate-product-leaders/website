@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<p class="hero">Best practices and strategies for climate-conscious product management</p>
+
 ![](/website/assets/img/mine-dithered.png)
 
 # Digital Is Physical
@@ -24,3 +26,5 @@ digital innovation leaves a mark on our planet. It's crucial to recognize
 that the servers, data centers, end-user devices, and vast infrastructure
 enabling our digital experiences are grounded in physical reality,
 consuming environmental resources and energy.
+
+[View The Playbook »](/website/playbook/)
