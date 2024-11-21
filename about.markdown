@@ -5,6 +5,18 @@ permalink: /about/
 order: 30
 ---
 
+
+<div markdown="1" class="about-us-links">
+  <img src="/website/assets/climate-icons/Website.png">
+  <a href="http://climateproductleaders.org" target="_blank">climateproductleaders.org</a>
+
+  <img src="/website/assets/climate-icons/Email.svg">
+  <a href="mailto:hey@climateproductleaders.org">hey@climateproductleaders.org</a>
+
+  <img src="/website/assets/climate-icons/LinkedIn.png">
+  <a href="https://www.linkedin.com/company/climate-product-leaders/" target="_blank">Climate Product Leaders on LinkedIn</a>
+</div>
+
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/antoine.jpeg)
 </div>
