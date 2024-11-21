@@ -7,10 +7,12 @@ layout: base
   <h1 class="post-title">{{ page.title | escape }}</h1>
 </header>
 
+<h4>Contents</h4>
+
 <ul id="playbook-contents">
   <li><a href="#introduction">Introduction</a></li>
   {%- for practice in practices -%}
-    <li><a href="#{{ practice.number }}">{{ practice.number }} - {{ practice.title | escape }}</a></li>
+    <li><a href="#{{ practice.number }}"><span class="number">{{ practice.number }}</span>{{ practice.title | escape }}</a></li>
   {%- endfor -%}
 </ul>
 
@@ -19,7 +21,7 @@ layout: base
 
 <div class="wrapper">
   {%- for practice in practices -%}
-  <a href="#{{practice.number }}">
+  <a class="playbook-anchor" href="#{{practice.number }}">
     <div id="{{practice.number }}" class="playbook-topRow">
       <div class="playbook-column1">
         <h5 class="playbook-section">{{ practice.section }}</h5>
