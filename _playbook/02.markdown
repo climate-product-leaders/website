@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Choose the right metrics"
 order: 02
-icon: /_includes/climate-icons/Icon-Building.svg
+icon: /assets/climate-icons/Icon-Building.svg
 number: "02"
 section: Embed in Your Rituals
 

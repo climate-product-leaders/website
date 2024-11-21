@@ -1,8 +1,19 @@
 /** We are adding this
 */
 
+.about-us-photo {
+  height: 150px;
+  width: 150px;
+}
+
+.wrapper {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
 ul {
   list-style-type: '✓  ' ;
+  margin-left: 22px;
 }
 
 .playbook {
@@ -10,12 +21,13 @@ ul {
     margin-bottom: 0px;
   }
 
-  &-numberAndTitle {
+  &-iconAndTitle {
     display: flex;
-    width: 80%;
-    justify-content: space-between;
-    align-items: flex-end;
-    height: 40px
+    align-items: center;
+
+    & h3 {
+      margin-left: 8px;
+    }
   }
 
   &-topRow {
