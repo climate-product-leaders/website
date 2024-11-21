@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<p class="hero">Best practices and strategies for climate-conscious product management</p>
+
 ![](/website/assets/img/mine-dithered.png)
 
 # Digital Is Physical

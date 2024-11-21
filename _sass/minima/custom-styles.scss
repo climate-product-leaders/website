@@ -6,3 +6,17 @@ body { background-color: #FCFFE7; }
 h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
 
 .wrapper, .site-header { border-bottom: none; }
+
+.hero {
+  font-size: 3em;
+  font-weight: bold;
+  max-width: 600px;
+  text-align: left;
+  line-height: 1em;
+}
+
+p {
+  text-align: justify;
+}
+
+img { margin-top: 2em; margin-bottom: 2em; }
