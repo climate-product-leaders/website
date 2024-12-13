@@ -10,7 +10,7 @@ layout: home
 ![](/website/assets/img/mine-dithered.png)
 
 # Digital Is Physical
-
+Hello hello hey
 The digital revolution, while transformative, carries a profound
 environmental footprint. It is estimated that the Information and
 Communications Technology (ICT) sector alone accounts for
