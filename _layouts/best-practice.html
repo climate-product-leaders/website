@@ -1,15 +1,91 @@
 ---
 layout: base
 ---
-<a href="/website/playbook/">< PLAYBOOK</a>
-<hr>
-<article class="best-practice">
-  <span>{{ page.section }}</span>
-  <span>{{ page.number }}</span>
-  <h1>{{ page.title }}</h1>
+<a href="/website/playbook/">PLAYBOOK</a>
 
-  <p>{{page.matter}}</p>
-  <p>{{page.do}}</p>
-  <p>{{page.success}}</p>
-  <p>{{page.consider}}</p>
+<div class="playbook-nav">
+  {% unless page.order == 0 %}
+    {% assign prev_number = page.number | minus: 1 %}
+    {% assign prev_page = site.playbook | where: "order", prev_number | first %}
+    <a class="playbook-nav-prev" href="{{ prev_number }}">
+      ← Previous <span class="playbook-nav-title">{{ prev_page.title }}</span>
+    </a>
+  {% endunless %}
+  {% unless page.order == 33 %}
+    {% assign next_number = page.number | plus: 1 %}
+    {% assign next_page = site.playbook | where: "order", next_number | first %}
+    <a class="playbook-nav-next" href="{{ next_number }}">
+      Next → <span class="playbook-nav-title">{{ next_page.title }}</span>
+    </a>
+  {% endunless %}  
+</div>
+
+{% unless page.order == 0 %}
+<article class="best-practice">
+
+  <div id="{{ page.number }}" class="playbook-topRow">
+    <div class="playbook-column1">
+      <h5 class="playbook-section">{{ page.section }}</h5>
+      <h3>{{ page.number }}</h3>
+    </div>
+    <div class="playbook-column2 playbook-iconAndTitle">
+      <img src="{{ page.icon | prepend: site.baseurl }}" alt="{{ page.title }}" />
+      <h3>{{ page.title | escape }}
+    </div>
+  </div>
+
+  <hr class="playbook-hr" />
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>Why does it matter?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.matter | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>What can I do?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.do | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>What does success look like?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.success | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>Things to consider</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.consider | markdownify }}</div>
+    </div>
+  </div>
+
 </article>
+{% endunless %}
+
+{{ content }}
+
+<div class="playbook-nav">
+  {% unless page.order == 0 %}
+    {% assign prev_number = page.number | minus: 1 %}
+    {% assign prev_page = site.playbook | where: "order", prev_number | first %}
+    <a class="playbook-nav-prev" href="{{ prev_number }}">
+      ← Previous <span class="playbook-nav-title">{{ prev_page.title }}</span>
+    </a>
+  {% endunless %}
+  {% unless page.order == 33 %}
+    {% assign next_number = page.number | plus: 1 %}
+    {% assign next_page = site.playbook | where: "order", next_number | first %}
+    <a class="playbook-nav-next" href="{{ next_number }}">
+      Next → <span class="playbook-nav-title">{{ next_page.title }}</span>
+    </a>
+  {% endunless %}  
+</div>

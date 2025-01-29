@@ -1,71 +1,29 @@
 ---
 layout: base
 ---
-{% assign practices = site.playbook %}
+{% assign practices = site.playbook | sort: "order" %}
 
 <header class="post-header">
   <h1 class="post-title">{{ page.title | escape }}</h1>
 </header>
 
-<h4>Contents</h4>
-
-<ul id="playbook-contents">
-  <li><a href="#introduction">Introduction</a></li>
-  {%- for practice in practices -%}
-    <li><a href="#{{ practice.number }}"><span class="number">{{ practice.number }}</span>{{ practice.title | escape }}</a></li>
-  {%- endfor -%}
-</ul>
-
-<rel id="introduction" />
 {{ content }}
 
-<div class="wrapper">
-  {%- for practice in practices -%}
-  <a class="playbook-anchor" href="#{{practice.number }}">
-    <div id="{{practice.number }}" class="playbook-topRow">
-      <div class="playbook-column1">
-        <h5 class="playbook-section">{{ practice.section }}</h5>
-        <h3>{{practice.number }}</h3>
-      </div>
-      <div class="playbook-column2 playbook-iconAndTitle">
-        <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ playbook.title }}" />
-        <h3>{{ practice.title | escape }}
-      </div>
-    </div>
-  </a>
-  <hr class="playbook-hr" />
-  <div class="playbook-row">
-    <div class="playbook-column1">
-      <h3>Why does it matter?</h3>
-    </div>
-    <div class="playbook-column2">
-      <div>{{ practice.matter | markdownify }}</div>
-    </div>
-  </div>
-  <div class="playbook-row">
-    <div class="playbook-column1">
-      <h3>What can I do?</h3>
-    </div>
-    <div class="playbook-column2">
-      <div>{{ practice.do | markdownify }}</div>
-    </div>
-  </div>
-  <div class="playbook-row">
-    <div class="playbook-column1">
-      <h3>What does success look like?</h3>
-    </div>
-    <div class="playbook-column2">
-      <div>{{ practice.success | markdownify }}</div>
-    </div>
-  </div>
-  <div class="playbook-row">
-    <div class="playbook-column1">
-      <h3>Things to consider</h3>
-    </div>
-    <div class="playbook-column2">
-      <div>{{ practice.consider | markdownify }}</div>
-    </div>
-  </div>
+{% assign: chapters = practices | map: "section" | uniq %}
 
+
+
+
+
+<ul id="playbook-contents">
+  {%- for chapter in chapters -%}
+    {% assign chapter_pages = practices | where: "section", chapter %}
+    <h3>{{ chapter }}</h3>
+    {%- for practice in chapter_pages -%}
+      <li><a href="{{ practice.order }}">
+        {% if practice.number %}<span class="number">{{ practice.number }}</span>{% endif %}
+        <span class="title">{{ practice.title | escape }}</span>
+      </a></li>
+    {%- endfor -%}
   {%- endfor -%}
-</div>
+</ul>

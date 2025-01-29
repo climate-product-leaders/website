@@ -1,10 +1,10 @@
 ---
 layout: best-practice
-title: "Measure the environmental impact of your business"
-order: 01
+title: "Minimize data transfer"
+order: 20
 icon: /assets/climate-icons/Icon-Building.svg
-number: "01"
-section: Embed In Your Rituals
+number: "20"
+section: Design Frugally
 
 matter: |
   Understanding the source of your business emissions is

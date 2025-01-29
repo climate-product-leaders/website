@@ -1,10 +1,10 @@
 ---
 layout: best-practice
 title: "Set environmental OKRs"
-order: 04
+order: 4
 icon: /assets/climate-icons/Icon-Building.svg
 number: "04"
-section: Embed in Your Rituals
+section: Embed In Your Rituals
 
 matter: |
   Decarbonization efforts and net-zero targets are becoming

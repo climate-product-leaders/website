@@ -1,10 +1,10 @@
 ---
 layout: best-practice
-title: "Prioritize climate initiatives"
-order: 05
+title: "Onboard developers and designers"
+order: 7
 icon: /assets/climate-icons/Icon-Building.svg
-number: "05"
-section: Embed in Your Rituals
+number: "07"
+section: Embed In Your Rituals
 
 matter: |
   Your backlog holds great potential for engagement with 

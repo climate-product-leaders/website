@@ -1,10 +1,10 @@
 ---
 layout: best-practice
-title: "Choose the right metrics"
-order: 02
+title: "Implement caching, batching, and offline features"
+order: 23
 icon: /assets/climate-icons/Icon-Building.svg
-number: "02"
-section: Embed in Your Rituals
+number: "23"
+section: Design Frugally
 
 matter: |
   Even though all business contexts are different, a set of 

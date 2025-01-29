@@ -1,10 +1,10 @@
 ---
 layout: best-practice
-title: "Track your digital footprint"
-order: 03
+title: "Avoid obsolescence tactics"
+order: 13
 icon: /assets/climate-icons/Icon-Building.svg
-number: "03"
-section: Embed in Your Rituals
+number: "13"
+section: Build Mindfully
 
 matter: |
   Zooming in on digital emissions and impact is critical 

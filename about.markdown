@@ -7,9 +7,6 @@ order: 30
 
 
 <div markdown="1" class="about-us-links">
-  <img src="/website/assets/climate-icons/Website.png">
-  <a href="http://climateproductleaders.org" target="_blank">climateproductleaders.org</a>
-
   <img src="/website/assets/climate-icons/Email.svg">
   <a href="mailto:hey@climateproductleaders.org">hey@climateproductleaders.org</a>
 
@@ -17,11 +14,11 @@ order: 30
   <a href="https://www.linkedin.com/company/climate-product-leaders/" target="_blank">Climate Product Leaders on LinkedIn</a>
 </div>
 
+## Antoine Cabot
+
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/antoine.jpeg)
 </div>
-
-## Antoine Cabot
 
 I work as a Senior Product Manager at Salesforce,
 where I am deeply engaged in the advancement of digital
@@ -46,11 +43,11 @@ hand-in-hand with ecological stewardship.
 In both my personal and professional life, I am committed
 to exploring and implementing strategies that promote sustainability. From reducing air travel to moving to a plant-based diet, this commitment is an integral part of my identity, influencing the way I approach product management and shaping the future of digital process automation in a way that respects and preserves our planet.
 
+## François Burra
+
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/francois.jpeg)
 </div>
-
-## François Burra
 
 As a Product Lead and UX strategic consultant, I have spent
 over a decade collaborating with startups and agencies across
@@ -81,3 +78,14 @@ and reducing their digital emissions.
 I now train product teams on sustainable digital practices (with
 [Product for Net Zero](https://productfornetzero.com/){:target="_blank"}), help companies measure digital footprint
 (with [fruggr](https://www.fruggr.io/){:target="_blank"}), and build low-carbon experiences.
+
+## Peter Stovall
+
+<div markdown="1" class="about-us-photo">
+![](/website/assets/peter.jpg)
+</div>
+
+
+Peter is an entrepreneurial product leader focused on enterprise tech, and passionate about the planet. He is the author of a number of articles on climate conscious product management. He met and introduced Antoine and Francois in 2022 when pivoting from professional services into climate tech, and subsequently joined the Climate Product Leaders board in 2024. Peter is currently helping the solar industry scale by building solar asset lifecycle management with Raptor Maps.
+
+As a product leader, Peter's purpose is to create space for focused discovery and meaningful insights, empower rapid validation, and create processes that let us measure and repeat value creation. One of his favourite mantras is "go slow to go fast", and his drive for value avoids costly "product bloat" - features that don't get used and contribute to e-waste.

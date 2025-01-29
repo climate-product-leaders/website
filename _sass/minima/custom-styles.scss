@@ -17,14 +17,47 @@ h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
 
 .home img { margin-top: 2em; }
 
-.playbook-topRow { margin-top: 6em; }
 .playbook-topRow img { margin: 0; }
 .playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
 a.playbook-anchor { text-decoration: none; color: black; }
 a.playbook-anchor:hover { text-decoration: none; color: black; }
-#playbook-contents { list-style: none; margin-left: 0; text-transform: uppercase; margin: 2em 0 2em 0; }
-#playbook-contents .number {
-  font-weight: bold;
-  width: 40px;
-  display: inline-block;
+#playbook-contents { 
+  list-style: none;
+  margin-left: 0;
+  text-transform: uppercase;
+  margin: 2em 0 2em 0;
+  font-size: 1.2em;
+  line-height: 2em;
+  .title { font-style: italic; }
+  .number {
+    font-weight: bold;
+    width: 40px;
+    display: inline-block;
+  }
+  h3 { margin-top: 1.5em; }
+}
+.best-practice { margin-top: 2em; display: block; width: 100%;}
+
+.playbook-nav {
+  margin: 3em 0;
+  display: block;
+  width: 100%;
+  height: 3em;
+  text-transform: uppercase;
+  a { width: 40%; }
+  &-title {
+    width: 100%;
+    display: block;
+    font-style: italic;
+    font-size: 0.8em;
+  }
+  &-prev {
+    float: left;
+    display: inline;
+  }
+  &-next {
+    float: right;
+    display: inline;
+    text-align: right;
+  }
 }
