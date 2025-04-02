@@ -14,7 +14,30 @@ order: 30
   <a href="https://www.linkedin.com/company/climate-product-leaders/" target="_blank">Climate Product Leaders on LinkedIn</a>
 </div>
 
-## Antoine Cabot
+### Our Mission
+
+Climate Product Leaders is an organization dedicated to driving awareness of the climate impact of our digital products within the product community and enabling positive outcomes through developing and teaching related best practices. Climate Product Leaders maintains its flagship Climate Product Management Playbook, as well as organizes several in-person and recorded courses and workshops.
+
+### Vision
+
+Inspire product management leaders around the world to take nature-positive actions through a set of best practices and practical solutions.
+
+### Objectives
+
+1. Raise awareness: Make professionals aware of climate-conscious and sustainable product management practices  
+2. Train: Develop skills of professionals to drive climate action  
+3. Equip: Provide tools and framework to professionals to accelerate the adoption of best practices
+
+### What We Do
+
+* Building and maintaining the Climate Product Management Playbook  
+* Gathering case studies to inspire professionals  
+* Delivering trainings to raise awareness and drive climate action  
+* Building tools, frameworks, and cheat sheets
+
+## Our Board
+
+### Antoine Cabot
 
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/antoine.jpeg)
@@ -43,7 +66,7 @@ hand-in-hand with ecological stewardship.
 In both my personal and professional life, I am committed
 to exploring and implementing strategies that promote sustainability. From reducing air travel to moving to a plant-based diet, this commitment is an integral part of my identity, influencing the way I approach product management and shaping the future of digital process automation in a way that respects and preserves our planet.
 
-## François Burra
+### François Burra
 
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/francois.jpeg)
@@ -79,7 +102,7 @@ I now train product teams on sustainable digital practices (with
 [Product for Net Zero](https://productfornetzero.com/){:target="_blank"}), help companies measure digital footprint
 (with [fruggr](https://www.fruggr.io/){:target="_blank"}), and build low-carbon experiences.
 
-## Peter Stovall
+### Peter Stovall
 
 <div markdown="1" class="about-us-photo">
 ![](/website/assets/peter.jpg)
@@ -89,3 +112,25 @@ I now train product teams on sustainable digital practices (with
 Peter is an entrepreneurial product leader focused on enterprise tech, and passionate about the planet. He is the author of a number of articles on climate conscious product management. He met and introduced Antoine and Francois in 2022 when pivoting from professional services into climate tech, and subsequently joined the Climate Product Leaders board in 2024. Peter is currently helping the solar industry scale by building solar asset lifecycle management with Raptor Maps.
 
 As a product leader, Peter's purpose is to create space for focused discovery and meaningful insights, empower rapid validation, and create processes that let us measure and repeat value creation. One of his favourite mantras is "go slow to go fast", and his drive for value avoids costly "product bloat" - features that don't get used and contribute to e-waste.
+
+## Our Ambassadors
+
+Angela Sanchez Guitart, London England, [LinkedIn](https://www.linkedin.com/in/angelasanchezguitart/)   
+Anita Schüttler, Breman Germany, [LinkedIn](https://www.linkedin.com/in/anita-sch%C3%BCttler-21095023b/)   
+Audrey Duet, Santa Clara CA US, [LinkedIn](https://www.linkedin.com/in/audreyduet/)  
+Consuela Nicula, Belgium, [LinkedIn](https://www.linkedin.com/in/consuelanicula/)  
+Francesco Fullone, Faenza Italy, [LinkedIn](https://www.linkedin.com/in/fullo/)   
+Joyce Lipener, San Francisco CA US, [LinkedIn](https://www.linkedin.com/in/jlipener/)   
+Katherine Everest, London England, [LinkedIn](https://www.linkedin.com/in/katherineeverest/)   
+Katie Mayo, Bishop CA US, [LinkedIn](https://www.linkedin.com/in/katiemayo/)   
+Matthieu Duprey, Paris France, [LinkedIn](https://www.linkedin.com/in/matthieuduprey/)  
+Nathan Shuler, New York NY US, [LinkedIn](https://www.linkedin.com/in/nathanshuler/)  
+Nolwenn Godard, San Francisco CA US, [LinkedIn](https://www.linkedin.com/in/nolwenngodard/)   
+Pascal Joly, Santa Clara CA US, [LinkedIn](https://www.linkedin.com/in/pascaljoly/)  
+Sarah Djellouli, Paris France, [LinkedIn](https://www.linkedin.com/in/sarah-djellouli-strategy-business-development-impact/)  
+Scott Ogle, Portland OR US, [LinkedIn](https://www.linkedin.com/in/scogle/)   
+Shirish Bhattarai, Stockholm Sweden, [LinkedIn](https://www.linkedin.com/in/shirishbt/)
+
+# Join us
+
+We are a team of passionate volunteers with the same desire to have an impact and create a greener web. If you’d like to support our work, [become an ambassador](/website/get-involved/). 
