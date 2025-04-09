@@ -8,7 +8,7 @@ number: "01"
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 
-previous-page: foreword-and-introduction
+previous-page: embed-sustainability
 next-page: choose-the-right-metrics
 
 matter: |

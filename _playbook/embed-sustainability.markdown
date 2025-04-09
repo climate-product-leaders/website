@@ -13,4 +13,6 @@ previous-page: foreword-and-introduction
 
 # Embed Sustainability Into Your Rituals
 
-Dive into the heart of integrating environmental sustainability into every facet of product management. It's all about making green choices as part of your everyday routine. Here, you'll explore how process decisions and actions can collectively drive significant environmental progress, transforming novel green initiatives into a standard operating procedure that's second nature.
+<div class="bigquote" style="text-align:left;">
+<span class="highlight">Dive into the heart of integrating environmental sustainability into every facet of product management. It's all about making green choices as part of your everyday routine. Here, you'll explore how process decisions and actions can collectively drive significant environmental progress, transforming novel green initiatives into a standard operating procedure that's second nature.</span>
+</div>
