@@ -3,24 +3,9 @@ layout: base
 ---
 <a href="/website/playbook/">PLAYBOOK</a>
 
-<div class="playbook-nav">
-  {% unless page.order == 0 %}
-    {% assign prev_number = page.number | minus: 1 %}
-    {% assign prev_page = site.playbook | where: "order", prev_number | first %}
-    <a class="playbook-nav-prev" href="{{ prev_number }}">
-      ← Previous <span class="playbook-nav-title">{{ prev_page.title }}</span>
-    </a>
-  {% endunless %}
-  {% unless page.order == 33 %}
-    {% assign next_number = page.number | plus: 1 %}
-    {% assign next_page = site.playbook | where: "order", next_number | first %}
-    <a class="playbook-nav-next" href="{{ next_number }}">
-      Next → <span class="playbook-nav-title">{{ next_page.title }}</span>
-    </a>
-  {% endunless %}  
-</div>
+{%- include playbook-nav.html -%}
 
-{% unless page.order == 0 %}
+{% if page.matter %}
 <article class="best-practice">
 
   <div id="{{ page.number }}" class="playbook-topRow">
@@ -48,7 +33,7 @@ layout: base
       <h3>What can I do?</h3>
     </div>
     <div class="playbook-column2">
-      <div>{{ page.do | markdownify }}</div>
+      <div class="checkmark-list">{{ page.do | markdownify }}</div>
     </div>
   </div>
   <div class="playbook-row">
@@ -69,23 +54,8 @@ layout: base
   </div>
 
 </article>
-{% endunless %}
+{% endif %}
 
 {{ content }}
 
-<div class="playbook-nav">
-  {% unless page.order == 0 %}
-    {% assign prev_number = page.number | minus: 1 %}
-    {% assign prev_page = site.playbook | where: "order", prev_number | first %}
-    <a class="playbook-nav-prev" href="{{ prev_number }}">
-      ← Previous <span class="playbook-nav-title">{{ prev_page.title }}</span>
-    </a>
-  {% endunless %}
-  {% unless page.order == 33 %}
-    {% assign next_number = page.number | plus: 1 %}
-    {% assign next_page = site.playbook | where: "order", next_number | first %}
-    <a class="playbook-nav-next" href="{{ next_number }}">
-      Next → <span class="playbook-nav-title">{{ next_page.title }}</span>
-    </a>
-  {% endunless %}  
-</div>
+{%- include playbook-nav.html -%}

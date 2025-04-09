@@ -1,7 +1,13 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-body { background-color: #FCFFE7; }
+body { 
+  background-color: #FCFFE7;
+  &.embed-rituals { background-color: #E2FCF3; }
+  &.influence { background-color: #EBFDE3; }
+  &.design-frugally { background-color: #DAD6F8; }
+  &.build-mindfully { background-color: #F7FEC3; }
+}
 
 h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
 
@@ -61,3 +67,11 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
     text-align: right;
   }
 }
+
+div.bigquote {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 80px auto;
+}
+
+span.highlight { background-color: #E6F56F; }

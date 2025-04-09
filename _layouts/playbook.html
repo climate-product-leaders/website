@@ -12,15 +12,12 @@ layout: base
 {% assign: chapters = practices | map: "section" | uniq %}
 
 
-
-
-
 <ul id="playbook-contents">
   {%- for chapter in chapters -%}
     {% assign chapter_pages = practices | where: "section", chapter %}
     <h3>{{ chapter }}</h3>
     {%- for practice in chapter_pages -%}
-      <li><a href="{{ practice.order }}">
+      <li><a href="{{ practice.slug }}">
         {% if practice.number %}<span class="number">{{ practice.number }}</span>{% endif %}
         <span class="title">{{ practice.title | escape }}</span>
       </a></li>

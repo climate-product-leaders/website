@@ -39,9 +39,9 @@
 }
 
 ul {
-  list-style-type: '✓  ' ;
   margin-left: 22px;
 }
+.playbook-column2 ul { list-style-type: '✓  ' ; }
 
 .playbook {
   &-section {
