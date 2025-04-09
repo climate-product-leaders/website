@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: The Playbook
+title: Playbook
 permalink: /playbook/
 order: 10
 ---
