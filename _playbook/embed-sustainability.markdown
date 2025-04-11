@@ -11,6 +11,7 @@ next-page: measure-environmental-impact
 previous-page: foreword-and-introduction
 ---
 
+#### CHAPTER 1
 # Embed Sustainability Into Your Rituals
 
 <div class="bigquote" style="text-align:left;">

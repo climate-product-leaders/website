@@ -6,10 +6,10 @@ body {
   &.embed-rituals { background-color: #E2FCF3; }
   &.influence { background-color: #EBFDE3; }
   &.design-frugally { background-color: #DAD6F8; }
-  &.build-mindfully { background-color: #F7FEC3; }
+  &.discover-mindfully { background-color: #F7FEC3; }
 }
 
-h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family; }
+h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family;  }
 
 .playbook-hr { margin-bottom: $spacing-unit; }
 
