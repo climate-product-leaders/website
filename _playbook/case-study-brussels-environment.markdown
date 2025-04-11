@@ -10,7 +10,7 @@ previous-page: onboard-developers-and-designers
 next-page: build-sustainable-ai-products
 ---
 
-# Case Study - Brussels Environment
+# Case Study: Brussels Environment
 
 ## Context/Challenge
 
