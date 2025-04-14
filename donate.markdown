@@ -10,13 +10,10 @@ In the face of our climate crisis, innovative solutions are essential. Climate P
 
 Your donation to Climate Product Leaders will support:
 
-🤝 Connecting climate-focused product leaders to share knowledge and accelerate innovation
-
-🚀 Developing resources to help professionals transition their careers toward climate solutions
-
-📊 Hosting strategic events and workshops that foster collaboration on breakthrough technologies
-
-🌟 Supporting emerging climate tech innovators through structured mentorship programs
+- 🤝 Connecting climate-focused product leaders to share knowledge and accelerate innovation
+- 🚀 Developing resources to help professionals transition their careers toward climate solutions
+- 📊 Hosting strategic events and workshops that foster collaboration on breakthrough technologies
+- 🌟 Supporting emerging climate tech innovators through structured mentorship programs
 
 Your contribution is an investment in the expertise and networks needed to address climate challenges. Each donation strengthens this vital community working to create scalable, effective climate solutions.
 
