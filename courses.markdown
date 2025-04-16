@@ -34,9 +34,13 @@ Check on [https://www.terra.do/climate-change-courses/climate-efficient-digital-
 
 ### Climate-Conscious Product Management
 
+This four-week online course outlines techniques that product and sustainability professionals can take to measure and reduce emissions from their products.
+
 Contact us [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org) if you’re interested in having this workshop at your organization.
 
 ### Sustainable AI for Product Managers
+
+This four-week course equips product folks with tools, and strategies to mitigate AI’s climate impact, optimize AI products for sustainability, and implement responsible, energy-efficient AI technologies.
 
 Contact us [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org) if you’re interested in having this workshop at your organization.
 
@@ -52,6 +56,8 @@ Our expert speakers are available for talks, interactive Q\&A sessions, or panel
 
 Popular topics include:
 
+* The environmental impact of the digital industry
+* The environmental impact of AI: understanding and mitigating them
 * How to become a climate-conscious product manager?  
 * How to champion sustainable AI product management?
 
