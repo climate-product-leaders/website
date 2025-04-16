@@ -25,6 +25,8 @@ X hours of training given in 2024 -->
 
 We can deliver our 6-week standard program for teams of up to 25 people in your organization. We can also tailor it to your specific needs.   
 
+Contact us [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org) if you’re interested in having this workshop at your organization.
+
 
 ### Testimonials
 
