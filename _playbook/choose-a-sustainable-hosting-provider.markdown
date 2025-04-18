@@ -5,7 +5,7 @@ order: 610
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "34"
 
-section: Choose a sustainable hosting provider
+section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
 previous-page: become-carbon-aware

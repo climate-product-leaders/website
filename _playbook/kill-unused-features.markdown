@@ -5,7 +5,7 @@ order: 550
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "31"
 
-section: Kill unused features
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: minimize-data-transfer

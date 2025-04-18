@@ -5,7 +5,7 @@ order: 530
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "29"
 
-section: Optimize multimedia files
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: use-multimedia-wisely

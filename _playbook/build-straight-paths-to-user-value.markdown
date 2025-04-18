@@ -5,7 +5,7 @@ order: 510
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "26"
 
-section: Build straight paths to user value
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: align-business-model-with-sustainability-goals

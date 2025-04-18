@@ -5,7 +5,7 @@ order: 560
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "32"
 
-section: Delete old user accounts and old data
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: kill-unused-features

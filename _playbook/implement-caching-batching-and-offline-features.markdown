@@ -5,7 +5,7 @@ order: 570
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "33"
 
-section: Implement caching, batching, and offline features
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: delete-old-user-accounts-and-old-data

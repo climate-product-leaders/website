@@ -5,7 +5,7 @@ order: 620
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "35"
 
-section: Promote green user behaviors
+section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
 previous-page: choose-a-sustainable-hosting-provider

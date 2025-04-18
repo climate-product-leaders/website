@@ -5,7 +5,7 @@ order: 540
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "30"
 
-section: Minimize data transfer
+section: Design Frugally
 chapter-tag: design-frugaly
 
 previous-page: optimize-multimedia-files
