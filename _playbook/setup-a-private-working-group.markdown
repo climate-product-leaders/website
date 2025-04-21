@@ -34,7 +34,7 @@ consider: |
   Regular training keeps members updated on global climate trends and best practices. The working group may not have all the answers, therefore their actions should be focused on  exploration, critique, discussion, and encouraging the organization to adopt a growth mindset. 
   Transparent communication channels within the working group and with the broader organization are paramount. By celebrating milestones, even small ones, the group can maintain momentum and inspire broader organizational commitment.
   Lastly, being receptive to feedback and adaptable to a changing climate ecosystem ensures the working group remains relevant and impactful.
-
+---
 <div class="bigquote">
   <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
 </div>
