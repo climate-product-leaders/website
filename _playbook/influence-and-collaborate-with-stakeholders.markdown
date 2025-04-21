@@ -31,3 +31,5 @@ consider: |
   We recommend using simple and powerful examples that are easy to remember and envision. Encourage open dialogue and adapt strategies based on stakeholder input. 
   As a product leader, remember that your actions speak louder than your words. However, it is important to use shared language and priorities to help the conversation feel less threatening and more exciting. 
   Demonstrate your impact on your users, business, and climate metrics. It's easier to follow a path that has already been established than to be the first mover. Blaze the trail for others and support them to join you on your journey. They may then be inspired to make changes in their own circle of influence.
+
+---
