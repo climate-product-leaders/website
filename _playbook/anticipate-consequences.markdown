@@ -14,6 +14,7 @@ next-page: validate-the-user-journey-and-needs
 
 matter: |
   Technological innovation is powerful on a large scale, and it demands responsibility. It's important to remember that *digital is physical*. The production of devices to host and run software includes mineral extraction, population displacement, water pollution from the filtration process of minerals, manufacturing, transportation, and more. Digital products also affect user behavior. Also, a digital transaction may represent the exchange of physical goods, such as in an e-commerce transaction.
+  
   We cannot create new products without considering their impact on people, the economy, society, and the environment. Sustainable design is essential for addressing the climate emergency, maintaining a competitive business edge, and moving toward a regenerative society. Consequence scanning is essential during the discovery phase. It helps you identify potential gaps, risks, and unintended consequences of your digital product at an early stage.
 
 do: |
@@ -46,6 +47,7 @@ success: |
 
 consider: |
   We recommend you scan consequences during the kickoff of a new project and as part of the definition of ready (DOR) before sprint planning. Always remember to collaborate with diverse key stakeholders to maximize your chances to identify more potential consequences. 
+  
   If you don’t have much time to invest in this activity, hiring sustainability experts can be an option if you have a budget. Type "climate job boards" into your preferred search engine, and you'll find dozens of sites to post your needs.
 ---
 

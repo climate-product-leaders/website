@@ -14,6 +14,7 @@ next-page: anticipate-consequences
 
 matter: |
   Digital products make a tangible impact on people and the Earth, so it is important to consider the societal impact of what we create. Historically, many companies have focused primarily on financial returns. Now, it has become more common to prioritize the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line), and begin ESG (Environmental, Social & Governance) reporting. However, these efforts are sometimes disjointed or exclude other important considerations.  
+  
   Product managers have the power to create profitable products that help society and reduce harm to the environment simultaneously, rethinking how to solve a problem entirely with radical innovation. Using systems thinking, a product manager can ensure that a single investment (or product) will solve multiple problems. This is called multisolving.
 
 do: |
@@ -42,6 +43,7 @@ success: |
 
 consider: |
   We recommend considering a product's societal impact alongside profitability, before launching a new product (or new features for an existing product). You can do this by considering the planet during the strategic planning phase [6 - Include the planet in your brief](include-the-planet-in-your-brief). At a higher level, you can try framing your vision for the product and for your organization using the [SDG framework](https://www.undp.org/sustainable-development-goals) (or equivalent)  [Set environmental OKRs](set-environmental-okrs).
+  
   If your business vision or mission doesn’t align with an SDG, take a moment to evaluate its impact on society, people, and the planet. Every business is part of a larger interconnected system. See more about this in the following best practice [Anticipate consequences](anticipate-consequences).
 ---
 

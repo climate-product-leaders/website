@@ -14,6 +14,7 @@ next-page: design-frugally
 
 matter: |
   Reusing and recycling code reduces development time and cost and conserves energy. As servers process fewer tasks, energy usage and the carbon footprint of software development diminish. Thus, your software development becomes more climate-considerate (and more cost effective simultaneously). 
+  
   Some examples of code [efficiency](https://biosistemika.com/blog/good-practices-for-sustainable-software-development/) include: leveraging existing data transfer pipelines (rather than creating new ones), testing heavily to ensure code is efficient, which reduce maintenance work in the future, and modularizing code components. Modularizing your code base greatly reduces your product's overall carbon footprint by measuring each function's impact.
 
 do: |
@@ -44,7 +45,9 @@ success: |
 
 consider: |
   Not all purposes or contexts may require the reuse of existing code, especially if you have a very old piece of software or security and intellectual property considerations. It's vital to maintain a balance between generic and project-specific code to ensure the optimal recycling and reuse of code. 
+  
   Proper documentation is key as it ensures longevity and comprehensibility. Quality control is paramount: reused code should be thoroughly tested to ensure it doesn't introduce errors or security vulnerabilities. Additionally, fostering a culture that values sustainability in terms of product delivery and environmental responsibility is a driver for success.
+  
   As a rule of thumb, if you can use open source code or existing code to solve your user problem, start there. When exploring AI solutions, you can also check out: [Chapter 2 - Build sustainable AI products](build-sustainable-ai-products).
 ---
 

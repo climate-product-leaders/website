@@ -14,7 +14,9 @@ next-page: remove-non-essential-features-from-the-scope
 
 matter: |
   Every product we create consumes resources, so we must create wisely. Validating user journeys during the discovery phase, before the development phase, helps reduce the likelihood of creating unnecessary, unused features. Wasted time, money, energy, and materials all come with an environmental cost. Remember: about 80% of [features](https://www.pendo.io/resources/the-2019-feature-adoption-report/) and [products](https://kaizen.com/insights/article-why-do-80-of-new-product-launches-fail-uk/) fail after launch. 
+  
   User journeys should be validated for all users and the team should explore the systemic effects that the product/feature’s usage will have.
+  
   Don’t start building until you’ve minimized the risk of launching something no one will use. This often means convincing management that investing in thorough user research is worth the time and money. In the long run, it leads to a well-researched, effective product. And don’t be afraid to [Kill unused features](kill-unused-features) and [Delete old user accounts and old data](delete-old-user-accounts-and-old-data).
 
 do: |
@@ -43,6 +45,7 @@ success: |
 
 consider: |
   User research is not a new field. Feel free to rely on existing resources out there. For example, the well-known [Value Proposition Design](https://www.strategyzer.com/library/value-proposition-design-2) book by Strategyzer and the practical step-by-step guide to frame your research, [How to Write a User Research Plan That Sets Your Project Up for Success](https://dscout.com/people-nerds/how-to-write-a-user-research-plan-that-sets-your-project-up-for-success).
+  
   Assess both the financial and environmental costs of each feature—include the emissions and energy required to define, build, and maintain it. Compare this against the long-term value it delivers to users and the planet. This helps avoid building features that are costly in dollars and carbon, but low in impact.
 ---
 
