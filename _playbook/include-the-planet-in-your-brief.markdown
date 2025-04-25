@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Include the Planet in your Brief"
 order: 70
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Fichier.svg
 number: "06"
 
 section: Embed Sustainability Into Your Rituals

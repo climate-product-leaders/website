@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Optimize AI Model Training and Inference"
 order: 140
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Connect.svg
 number: "11"
 
 section: Build Sustainable AI Products

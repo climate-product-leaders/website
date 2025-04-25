@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Validate the user journey and needs"
 order: 520
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Validate-User-Journey.svg
 number: "20"
 
 section: Discover Mindfully

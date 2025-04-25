@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Prioritize a mobile-first approach"
 order: 540
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Prioritize-Mobile-First.svg
 number: "22"
 
 section: Discover Mindfully

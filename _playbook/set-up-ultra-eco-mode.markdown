@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Set up ultra eco-mode"
 order: 630
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Factory.svg
 number: "36"
 
 section: Become Carbon Aware

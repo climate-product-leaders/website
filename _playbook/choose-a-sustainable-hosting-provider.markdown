@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Choose a sustainable hosting provider"
 order: 610
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Clouds.svg
 number: "34"
 
 section: Become Carbon Aware

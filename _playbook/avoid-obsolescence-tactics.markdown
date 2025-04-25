@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Avoid obsolescence tactics"
 order: 550
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Obsolescence.svg
 number: "23"
 
 section: Discover Mindfully

@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Prioritize Sustainable AI Design"
 order: 130
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-AIStar.svg
 number: "10"
 
 section: Build Sustainable AI Products

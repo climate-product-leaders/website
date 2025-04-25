@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Measure environmental Impact of your AI Implementations"
 order: 110
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Brain.svg
 number: "08"
 
 section: Build Sustainable AI Products

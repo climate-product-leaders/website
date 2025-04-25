@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Build straight paths to user value"
 order: 510
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Forward.svg
 number: "26"
 
 section: Design Frugally

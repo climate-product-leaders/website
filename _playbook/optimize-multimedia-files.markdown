@@ -1,8 +1,8 @@
 ---
 layout: best-practice
 title: "Optimize multimedia files"
-order: 530
-icon: /assets/climate-icons/Icon-Briefcase.svg
+order: 540
+icon: /assets/climate-icons/Icon-Magie.svg
 number: "29"
 
 section: Design Frugally

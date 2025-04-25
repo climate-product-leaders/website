@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Optimize for clean energy"
 order: 640
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Sun.svg
 number: "37"
 
 section: Become Carbon Aware

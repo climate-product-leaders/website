@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Evaluate societal usefulness"
 order: 510
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Globe.svg
 number: "18"
 
 section: Discover Mindfully

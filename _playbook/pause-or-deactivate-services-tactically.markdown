@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Pause or deactivate services tactically"
 order: 650
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Pause.svg
 number: "38"
 
 section: Become Carbon Aware

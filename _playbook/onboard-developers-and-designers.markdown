@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Onboard Developers and Designers"
 order: 80
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-CollabCrea.svg
 number: "07"
 
 section: Embed Sustainability Into Your Rituals

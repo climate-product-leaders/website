@@ -1,8 +1,8 @@
 ---
 layout: best-practice
 title: "Minimize data transfer"
-order: 540
-icon: /assets/climate-icons/Icon-Briefcase.svg
+order: 550
+icon: /assets/climate-icons/Icon-Transfert.svg
 number: "30"
 
 section: Design Frugally

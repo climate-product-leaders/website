@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Set up a climate working group"
 order: 200
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Microphone.svg
 number: "13"
 
 section: Use your influence

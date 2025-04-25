@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Promote green user behaviors"
 order: 620
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Green Behaviors.svg
 number: "35"
 
 section: Become Carbon Aware

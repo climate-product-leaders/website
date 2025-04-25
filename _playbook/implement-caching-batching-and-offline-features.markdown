@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Implement caching, batching, and offline features"
 order: 570
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Database.svg
 number: "33"
 
 section: Design Frugally

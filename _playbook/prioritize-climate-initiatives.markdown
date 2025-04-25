@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Prioritize Climate Initiatives"
 order: 60
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Star.svg
 number: "05"
 
 section: Embed Sustainability Into Your Rituals

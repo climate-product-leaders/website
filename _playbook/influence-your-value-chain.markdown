@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Share your commitment,actions and journey publicly"
 order: 240
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Collaboration.svg
 number: "17"
 
 section: Use your influence

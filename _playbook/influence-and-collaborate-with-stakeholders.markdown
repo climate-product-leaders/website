@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Influence and Collaborate with Internal Stakeholders"
 order: 210
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Business Network.svg
 number: "14"
 
 section: Use your influence

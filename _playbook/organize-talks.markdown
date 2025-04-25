@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Organize talks, raise awareness, and promote training"
 order: 220
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Megaphone.svg
 number: "15"
 
 section: Use your influence
