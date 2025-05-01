@@ -48,9 +48,3 @@ consider: |
   
   Assess both the financial and environmental costs of each feature—include the emissions and energy required to define, build, and maintain it. Compare this against the long-term value it delivers to users and the planet. This helps avoid building features that are costly in dollars and carbon, but low in impact.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

@@ -45,9 +45,3 @@ consider: |
   Empathy is crucial. Use relatable, real-life examples to illustrate benefits in meaningful ways (see [*Green Nudges](https://www.green-nudges.com/)* for inspiration). Simply citing CO₂e savings or comparing them to cars taken off the road won't resonate with everyone. Instead, research your audience, understand their values, and frame your message in ways that feel personally relevant and compelling.
   Be sure to validate through user testing how your changes affect long-term user behavior.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

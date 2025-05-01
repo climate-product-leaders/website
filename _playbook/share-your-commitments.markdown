@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "Share your commitment,actions and journey publicly"
+title: "Share your commitment, actions and journey publicly"
 order: 230
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "16"
@@ -9,7 +9,7 @@ section: Use your influence
 chapter-tag: use-your-influence
 
 previous-page: organize-talks
-next-page: share-your-commitments
+next-page: influence-your-value-chain
 
 
 matter: |
@@ -46,14 +46,9 @@ success: |
   - 💰🌍Engaging partners and suppliers committed to sustainability
   
   - 💰Employee retention reflecting a positive and sustainable work environment
+
 consider: |
   Transparency is a double-edged sword; it builds trust and mandates authenticity. Every claim must be backed by tangible action to avoid accusations of "[greenwashing](https://www.investopedia.com/terms/g/greenwashing.asp)." Engaging in two-way conversations, actively seeking feedback, and being receptive to critiques can further enhance credibility. Collaborating with recognized environmental organizations or obtaining third-party verifications can bolster claims. A genuine commitment to the cause, consistent communication, and action are the foundations of a successful public sustainability narrative.
   
   Share your offset and removal strategy. Offsetting carbon emissions can be a controversial topic. Therefore, having credible corporate climate strategies that follow a clear mitigation hierarchy with long-term science-based targets helps to build trust.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"The greatest threat to our planet is the belief that someone else will save it."</span>
-</div>
-
-<p style="text-align:center;">—Robert Swan, Polar Explorer and Environmentalist</p>

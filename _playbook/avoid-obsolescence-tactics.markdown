@@ -58,9 +58,3 @@ consider: |
   3. **Psychological Obsolescence:** Perceived obsolescence refers to the belief that a product is no longer fashionable or desirable, while social obsolescence is driven by peer pressure and social trends that influence individuals to replace their products with newer ones to fit in or maintain a certain image.
   Unplanned obsolescence is more common and hard to avoid. It describes the unintended outcome of forcing users to adopt the latest and greatest devices in order to run your product. Users no longer need a new device to get software upgrades. You can mitigate unplanned obsolescence with progressive enhancement, rather than “graceful degradation”, to deal with older devices.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
