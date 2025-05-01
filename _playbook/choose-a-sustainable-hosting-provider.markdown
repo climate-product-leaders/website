@@ -54,9 +54,3 @@ consider: |
   If your service is running on-premises and you want to optimize your virtual machines and servers, [EasyVirt](https://www.easyvirt.com/) and [fruggr.io](http://fruggr.io) can provide such services. [Scaphandre](https://github.com/hubblo-org/scaphandre) is also a great open-source solution to measure your power consumption. 
   If you plan to run your software on Kubernetes, either on-premise or in the cloud, take a look at the [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io/).
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

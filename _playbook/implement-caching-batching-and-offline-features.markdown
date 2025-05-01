@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "33"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: delete-old-user-accounts-and-old-data
 next-page: become-carbon-aware
@@ -46,9 +46,3 @@ success: |
 consider: |
   A deep understanding of user behaviour and needs is essential to implement batching and offline features successfully. Regularly gathering feedback ensures that these features align with user expectations. Additionally, thorough testing is crucial to identify potential sync issues or data conflicts that might arise. Investing in infrastructure that supports efficient caching and batch processes and providing training for development teams on best practices will further enhance these features' effectiveness and environmental benefits.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

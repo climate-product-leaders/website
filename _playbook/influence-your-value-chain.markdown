@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "Share your commitment,actions and journey publicly"
+title: "Influence your value chain and partners"
 order: 240
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "17"
