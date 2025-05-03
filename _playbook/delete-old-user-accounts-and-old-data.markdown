@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Remove.svg
 number: "32"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: kill-unused-features
 next-page: implement-caching-batching-and-offline-features
@@ -42,9 +42,3 @@ consider: |
   Have you ever had a company reach out to inform you they are deleting your account and data for security purposes? It’s a great practice and opportunity to educate users about the environmental benefits of data and account management and deletion.
   Deleting old accounts and data is win-win-win. It means there is less exposure to security risk for the business, less personal risk for users, less climate impact, and lower financial cost for the business.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

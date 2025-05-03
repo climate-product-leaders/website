@@ -9,7 +9,7 @@ section: Discover Mindfully
 chapter-tag: discover-mindfully
 
 previous-page: avoid-obsolescence-tactics
-next-page: design-frugally
+next-page: align-with-sustainability-goals
 
 
 matter: |
@@ -50,9 +50,3 @@ consider: |
   
   As a rule of thumb, if you can use open source code or existing code to solve your user problem, start there. When exploring AI solutions, you can also check out: [Chapter 2 - Build sustainable AI products](build-sustainable-ai-products).
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Transfert.svg
 number: "30"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: optimize-multimedia-files
 next-page: kill-unused-features
@@ -50,7 +50,7 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
+  <span class="highlight">"Surprisingly, 20% of API endpoints remain unused for over 30 days."</span>
 </div>
 
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
+<p style="text-align:center;"><a href="https://blog.treblle.com/the-anatomy-of-an-api-in-2023-a-comprehensive-overview/">The Anatomy of an API in 2023: A Comprehensive Overview</a></p>

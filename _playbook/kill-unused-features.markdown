@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Poubelle.svg
 number: "31"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: minimize-data-transfer
 next-page: delete-old-user-accounts-and-old-data
@@ -48,9 +48,3 @@ consider: |
   Foster a culture of minimalism and assess with your designers and developers what would be required to decommission selected features. Will this affect other parts of the experience, code, or business? Be thorough in anticipating these changes.
   Although rarely used, some features may have a high perceived value by users and may be required to match the competition. In some cases, it will be justified to keep them, but it should not be the default.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

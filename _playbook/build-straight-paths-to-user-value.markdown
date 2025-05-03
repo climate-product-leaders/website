@@ -6,10 +6,10 @@ icon: /assets/climate-icons/Icon-Forward.svg
 number: "26"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: align-business-model-with-sustainability-goals
-next-page: use-multimedia-wisely
+next-page: reduce-page-weight
 
 
 matter: |
@@ -51,9 +51,3 @@ consider: |
   We encourage you to provide the best experience while removing the fluff that doesn’t serve the brand or the business. [Reuse and recycle](reuse-and-recycle) existing features can help you avoid reinventing the wheel and reduce your scope.
   If your entire business relies on the attention economy, this best practice might not be as easy as it is for other businesses or products, but there are still some valuable takeaways you could implement to streamline your user experience.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

@@ -6,9 +6,9 @@ icon: /assets/climate-icons/Icon-Camera.svg
 number: "28"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
-previous-page: reduce-page-weight-and-complexity
+previous-page: reduce-page-weight
 next-page: optimize-multimedia-files
 
 
@@ -47,7 +47,9 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
+  <span class="highlight">"Reducing YouTube’s digital waste in the form of unused image (i.e audio-only stream of music) could save 500,000 tons of CO2.
+  
+  That’s more saving than YouTube using renewable energies to power servers."</span>
 </div>
 
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
+<p style="text-align:center;"><a href="https://www.wired.com/story/youtube-digital-waste-interaction-design/">YouTube's carbon footprint is huge, but smarter web design could fix it</a></p>

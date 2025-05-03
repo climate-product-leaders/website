@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Magie.svg
 number: "29"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: use-multimedia-wisely
 next-page: minimize-data-transfer
@@ -42,9 +42,3 @@ consider: |
   We recommend running tests on multiple devices and connection speeds to identify the right balance between quality and size reduction. This ensures that the initiative does not adversely affect the user experience, as it is possible to experience compatibility issues when testing on older browsers, devices, and operating systems.
   New practices and experiments, such as [Branch magazine](https://branch.climateaction.tech/), demonstrate how to optimize media. Branch changes its styling and images based on the cleanliness of the energy in the UK at any given moment.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
