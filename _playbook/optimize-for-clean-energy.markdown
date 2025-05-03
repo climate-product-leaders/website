@@ -38,7 +38,5 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
+  <span class="highlight">Electricity Maps is a useful platform that provides a simple way to understand carbon intensity based on location and timing. It helps you realize that the same digital experience can lead to significantly different carbon emissions depending on where your users are accessing it.</span>
 </div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>

@@ -42,7 +42,7 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
+  <span class="highlight">"We need to shift from Always-ON to Always-Available practice."</span>
 </div>
 
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
+<p style="text-align:center;">Shanna Grafeld, Gartner</p>

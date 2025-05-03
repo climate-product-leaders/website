@@ -45,3 +45,7 @@ consider: |
   A helpful approach is to implement changes gradually over time rather than making abrupt modifications.
   Additionally, it is important to have a plan for when carbon intensity data is unavailable, including a fallback mode.
 ---
+
+<div class="bigquote">
+  <span class="highlight">[Branch](https://branch.climateaction.tech/) is an online magazine published by the [Green Web Foundation](https://www.thegreenwebfoundation.org/). Their site changes its design based on the quantity of fossil fuels on the grid to stay inside a carbon budget at all times. This example illustrates how to both adapt your experience and educate your users when the grid intensity is high.</span>
+</div>

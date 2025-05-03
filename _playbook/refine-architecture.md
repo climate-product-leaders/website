@@ -9,7 +9,7 @@ section: Build Sustainable AI Products
 chapter-tag: sustainable-ai
 
 previous-page: optimze-model-training
-next-page: use-your-influence
+next-page: case-study-salesforce-llm
 
 
 matter: |
