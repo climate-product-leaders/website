@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "Acknowledgments"
+title: "Introduction"
 order: 1
 icon: /assets/climate-icons/Icon-Building.svg
 
