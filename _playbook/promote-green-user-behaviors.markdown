@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Promote green user behaviors"
 order: 620
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Green Behaviors.svg
 number: "35"
 
 section: Become Carbon Aware
@@ -45,3 +45,7 @@ consider: |
   Empathy is crucial. Use relatable, real-life examples to illustrate benefits in meaningful ways (see [*Green Nudges](https://www.green-nudges.com/)* for inspiration). Simply citing CO₂e savings or comparing them to cars taken off the road won't resonate with everyone. Instead, research your audience, understand their values, and frame your message in ways that feel personally relevant and compelling.
   Be sure to validate through user testing how your changes affect long-term user behavior.
 ---
+
+<div class="bigquote">
+  <span class="highlight">[Trainline](https://www.thetrainline.com/), an online platform for booking train and bus tickets in Europe, showcases the reduction in CO2 emissions when choosing to travel by train instead of a car. This not only strengthens the perceived value of their platform but also educates their users about the environmental benefits of train travel.</span>
+</div>

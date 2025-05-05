@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Use Data Efficiently"
 order: 120
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Chart.svg
 number: "09"
 
 section: Build Sustainable AI Products

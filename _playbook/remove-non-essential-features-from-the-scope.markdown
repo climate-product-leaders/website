@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Remove non-essential features from the scope"
 order: 530
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Remove-Non-Essential.svg
 number: "21"
 
 section: Discover Mindfully

@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Delete old user accounts and old data"
 order: 560
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Remove.svg
 number: "32"
 
 section: Design Frugally

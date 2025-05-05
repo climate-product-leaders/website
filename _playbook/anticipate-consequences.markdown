@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Anticipate consequences"
 order: 520
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Chrono.svg
 number: "19"
 
 section: Discover Mindfully

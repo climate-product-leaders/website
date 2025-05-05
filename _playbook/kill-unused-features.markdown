@@ -1,8 +1,8 @@
 ---
 layout: best-practice
 title: "Kill unused features"
-order: 550
-icon: /assets/climate-icons/Icon-Briefcase.svg
+order: 560
+icon: /assets/climate-icons/Icon-Poubelle.svg
 number: "31"
 
 section: Design Frugally

@@ -7,7 +7,7 @@ section: Discover Mindfully
 chapter-tag: discover-mindfully
 
 next-page: evaluate-societal-usefulness
-previous-page: case-study-brussels-environment
+previous-page: case-study-ethical-designers
 ---
 #### Chapter 4
 # Discover Mindfully

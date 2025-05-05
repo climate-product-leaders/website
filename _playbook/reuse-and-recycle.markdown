@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Reuse and recycle"
 order: 560
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Reuse.svg
 number: "24"
 
 section: Discover Mindfully

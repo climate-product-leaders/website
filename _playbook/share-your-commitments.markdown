@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Share your commitment, actions and journey publicly"
 order: 230
-icon: /assets/climate-icons/Icon-Briefcase.svg
+icon: /assets/climate-icons/Icon-Communaute.svg
 number: "16"
 
 section: Use your influence
@@ -52,3 +52,8 @@ consider: |
   
   Share your offset and removal strategy. Offsetting carbon emissions can be a controversial topic. Therefore, having credible corporate climate strategies that follow a clear mitigation hierarchy with long-term science-based targets helps to build trust.
 ---
+<div class="bigquote">
+  <span class="highlight">"The greatest threat to our planet is the belief that someone else will save it."</span>
+</div>
+
+<p style="text-align:center;">Robert Swan, Polar Explorer and Environmentalist</p>

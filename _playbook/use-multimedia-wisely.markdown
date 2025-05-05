@@ -1,8 +1,8 @@
 ---
 layout: best-practice
 title: "Use multimedia wisely"
-order: 520
-icon: /assets/climate-icons/Icon-Briefcase.svg
+order: 530
+icon: /assets/climate-icons/Icon-Camera.svg
 number: "28"
 
 section: Design Frugally
