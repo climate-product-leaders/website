@@ -9,7 +9,7 @@ section: Discover Mindfully
 chapter-tag: discover-mindfully
 
 previous-page: avoid-obsolescence-tactics
-next-page: align-with-sustainability-goals
+next-page: align-business-models-with-sustainability-goals
 
 
 matter: |

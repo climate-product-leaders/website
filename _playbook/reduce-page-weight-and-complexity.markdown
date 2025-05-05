@@ -6,7 +6,7 @@ icon: /assets/climate-icons/Icon-Forward.svg
 number: "27"
 
 section: Design Frugally
-chapter-tag: design-frugaly
+chapter-tag: design-frugally
 
 previous-page: build-straight-paths-to-user-value
 next-page: use-multimedia-wisely
