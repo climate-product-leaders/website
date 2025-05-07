@@ -23,7 +23,8 @@ As a **Climate Product Leaders Ambassador**, you’ll:
 ### Donate
 
 We rely on your generosity to keep our resources free and accessible to everyone. Your donation directly supports our mission—every contribution counts.
-[Donate]
+
+[**→ Donate to CPL**](/website/donate)
 
 ### Contact us
 To contact our team, please send us an email to hey@climateproductleaders.org
