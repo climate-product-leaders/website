@@ -6,6 +6,8 @@ order: 660
 section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
+case-study: true
+
 previous-page: pause-or-deactivate-services-tactically
 next-page: conclusion
 ---

@@ -6,6 +6,8 @@ order: 160
 section: Build Sustainable AI Products
 chapter-tag: sustainable-ai
 
+case-study: true
+
 previous-page: refine-architecture
 next-page: use-your-influence
 ---

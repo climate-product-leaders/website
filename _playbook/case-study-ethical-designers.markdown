@@ -6,6 +6,8 @@ order: 250
 section: Use your influence
 chapter-tag: use-your-influence
 
+case-study: true
+
 previous-page: influence-your-value-chain
 next-page: discover-mindfully
 ---

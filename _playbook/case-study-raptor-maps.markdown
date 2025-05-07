@@ -6,6 +6,8 @@ order: 580
 section: Design Frugally
 chapter-tag: design-frugally
 
+case-study: true
+
 previous-page: implement-caching-batching-and-offline-features
 next-page: become-carbon-aware
 ---
