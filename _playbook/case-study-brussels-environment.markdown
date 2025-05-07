@@ -6,6 +6,8 @@ order: 90
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 
+case-study: true
+
 previous-page: onboard-developers-and-designers
 next-page: build-sustainable-ai-products
 ---

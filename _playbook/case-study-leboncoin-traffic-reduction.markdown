@@ -6,6 +6,8 @@ order: 560
 section: Design Frugally
 chapter-tag: design-frugally
 
+case-study: true
+
 previous-page: minimize-data-transfer
 next-page: kill-unused-features
 ---

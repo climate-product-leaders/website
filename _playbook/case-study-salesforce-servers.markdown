@@ -6,6 +6,8 @@ order: 640
 section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
+case-study: true
+
 previous-page: set-up-ultra-eco-mode
 next-page: optimize-for-clean-energy
 ---

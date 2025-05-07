@@ -6,6 +6,8 @@ order: 580
 section: Discover Mindfully
 chapter-tag: discover-mindfully
 
+case-study: true
+
 previous-page: align-business-models-with-sustainability-goals
 next-page: design-frugally
 ---
