@@ -29,7 +29,7 @@
     
     const g = false; // Is the data transferred from a green host?
   
-    let e = emissions.perByte(b, g).toFixed(3);
+    let e = Number(emissions.perByte(b, g).toFixed(3));
   
     document.getElementById("bytes-transferred").innerHTML = Math.round(b / 1000); // Convert to KB
     document.getElementById("page-co2e").innerHTML = e;
