@@ -26,13 +26,13 @@ do: |
   
   - Use model **[pruning](https://dl.acm.org/doi/abs/10.1145/3295500.33561561)** which reduces the complexity of an already trained model by removing unnecessary components. It makes the model smaller and more efficient limiting computation time for your production environment.
   
-  - **[Fine-tune](https://www.notion.so/Glossary-c2c6f6bbf55849a0887ea495e54e7cd7?pvs=21)** your model carefully, by freezing parameters of pre-trained models and introduce your own subset of parameters.
+  - **[Fine-tune](glossary#fine-tuning)** your model carefully, by freezing parameters of pre-trained models and introduce your own subset of parameters.
   
   - Leverage **random sampling** techniques when dealing with a very large dataset allows you to create a representative subset of data for training or evaluation of your model which can significantly reduce computation time
   
-  - Practice [**distillation**](https://www.notion.so/Glossary-c2c6f6bbf55849a0887ea495e54e7cd7?pvs=21) to transfer knowledge from large, complex models (teachers) to smaller, efficient ones (students), reducing computational resources and energy consumption while maintaining performance.
+  - Practice [**distillation**](glossary#distillation) to transfer knowledge from large, complex models (teachers) to smaller, efficient ones (students), reducing computational resources and energy consumption while maintaining performance.
   
-  - Use Lower-Precision Data Types, leveraging [**quantization**](https://www.notion.so/Glossary-c2c6f6bbf55849a0887ea495e54e7cd7?pvs=21) (a memory optimization technique of running inference) to shrink model sizes. e.g.: float32, int8
+  - Use Lower-Precision Data Types, leveraging [**quantization**](glossary#quantization) (a memory optimization technique of running inference) to shrink model sizes. e.g.: float32, int8
   
   - Train and run models more efficiently. Schedule training when energy is cheaper or greener — like nights or in green-energy regions. Defer or queue time-intensive processes, like large model inferencing, for **batch processing.**
   
@@ -40,7 +40,7 @@ do: |
   
   - Opt for **Edge computing** when possible. Smaller models are more adapted for processing and storage closer to the data source, reducing energy consumption.
   
-  - Leverage [**Federated learning**](https://www.notion.so/Glossary-c2c6f6bbf55849a0887ea495e54e7cd7?pvs=21) to train a ML model across multiple devices or servers holding local data without sharing the actual data to limit model training and reduce processing time.
+  - Leverage [**Federated learning**](glossary#federated-learning) to train a ML model across multiple devices or servers holding local data without sharing the actual data to limit model training and reduce processing time.
   
   - Practice Energy-aware AI Code Refactoring: Identify and refactor AI Code Smells that contribute to high energy consumption without sacrificing the accuracy or performance of these models.
   

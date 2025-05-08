@@ -30,7 +30,7 @@ do: |
   
   - Consider environmental Key Failure Indicators (KFIs) to get alignment on non-acceptable scenarios (e.g. a feature or product being too energy-intensive or emitting too much carbon emissions for the business or user value created)
   
-  - [**Anticipate consequences**](https://www.notion.so/Anticipate-consequences-152e32ff00fd8125ad87edf7723752e4?pvs=21) to complete the brief
+  - [**Anticipate consequences**](anticipate-consequences) to complete the brief
   
   - Add a section for environmental considerations (listed as risks, uncertainties, or opportunities)
   
@@ -38,7 +38,7 @@ do: |
   
   - Define feature life expectancy and conditions/triggers for retirement
   
-  - Explore opportunities to [**Promote green user behaviors**](https://www.notion.so/Promote-green-user-behaviors-152e32ff00fd813791a4c6cedac8ae50?pvs=21)
+  - Explore opportunities to [**Promote green user behaviors**](promote-green-user-behaviors)
   
   - [Track your digital footprint](track-your-digital-footprint): list which tools you plan to use to measure, include sample dashboards as part of the scope
 

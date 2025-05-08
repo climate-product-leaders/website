@@ -52,7 +52,7 @@ success: |
   - Employee understanding of why sustainability is good for the business
 
 consider: |
-  A lot of groundwork needs to happen before succeeding in prioritizing climate or environmental OKRs. [Organize talks, raise awareness, and promote training](https://www.notion.so/Organize-talks-raise-awareness-and-promote-training-152e32ff00fd81ffa1ddd0b1c2d69f91?pvs=21), [**Set up a climate working group**](https://www.notion.so/Set-up-a-climate-working-group-152e32ff00fd818188fadcb5049c5695?pvs=21) or a Sustainability ERG (Employee Resource Group) and [Influence and collaborate with internal stakeholders](https://www.notion.so/Influence-and-collaborate-with-internal-stakeholders-152e32ff00fd81a3a06af685d3ba01a4?pvs=21) to maximize your chances. 
+  A lot of groundwork needs to happen before succeeding in prioritizing climate or environmental OKRs. [Organize talks, raise awareness, and promote training](organize-talks), [**Set up a climate working group**](set-up-a-climate-working-group) or a Sustainability ERG (Employee Resource Group) and [Influence and collaborate with internal stakeholders](influence-and-collaborate-with-stakeholders) to maximize your chances. 
 
   Lead by example, showcase your success, and you will organically create a buzz around this work stream.
 ---

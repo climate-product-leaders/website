@@ -26,7 +26,7 @@ do: |
 
   - Make sure it includes front-end and back-end impact
 
-  - Verify if best environmental practices have been embedded into the user story (e.g. [Avoid obsolescence tactics](https://www.notion.so/Avoid-obsolescence-tactics-152e32ff00fd81aab06ce79091a16f28?pvs=21), verify usage of multimedia, [**Optimize multimedia files**](https://www.notion.so/Optimize-multimedia-files-152e32ff00fd81e0b8ead3a3de07328e?pvs=21), [**Minimize data transfer**](https://www.notion.so/Minimize-data-transfer-152e32ff00fd8110aeede57361404a66?pvs=21) by applying a "minimum by default" approach for specs, etc.), more on this in the next 2 chapters
+  - Verify if best environmental practices have been embedded into the user story (e.g. [Avoid obsolescence tactics](avoid-obsolescence-tactics, verify usage of multimedia, [**Optimize multimedia files**](optimize-multimedia-files), [**Minimize data transfer**](minimize-data-transfer) by applying a "minimum by default" approach for specs, etc.), more on this in the next 2 chapters
 
   - Run tests to verify if best environmental practices have been implemented correctly
 
@@ -54,5 +54,5 @@ success: |
 consider: |
   Focus on starting small and building momentum with your team if it’s not possible to implement all the best environmental practices at first.  Spend time with your team to ensure all members understand the impact your product has on the planet. Consider prioritizing a spike to [**Choose the right metrics**](choose-the-right-metrics) your team would be able to advocate for. As your team gets excited with the results and sees value in the approach and its impact, it will become easier to raise the standards. 
 
-  We recommend you find ways to track the adoption of sustainable practices in your team over time and across the other product teams. Having a visible and tangible way to measure it will make it easier to identify and address challenges. We recommend that you look out for solutions that can help you not only create your climate playbook (like what you’re reading) or toolkit, but also disseminate it throughout the organization and teams. See [tools](https://www.notion.so/a4d8f3730f2143edaacdf090f8b98b8d?pvs=21) page for a list of solutions.
+  We recommend you find ways to track the adoption of sustainable practices in your team over time and across the other product teams. Having a visible and tangible way to measure it will make it easier to identify and address challenges. We recommend that you look out for solutions that can help you not only create your climate playbook (like what you’re reading) or toolkit, but also disseminate it throughout the organization and teams. See [tools](https://climateproductleaders.notion.site/a4d8f3730f2143edaacdf090f8b98b8d?v=a38eaadfcf774cf1b3972a4bbcf2c506) page for a list of solutions.
 ---

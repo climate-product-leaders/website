@@ -22,7 +22,7 @@ do: |
   
   - Scale up for training, but downscale for inference and don’t over-provision your production environments.  Production should be designed for scale but limited to very specific usage to limit performance issues (i.e Hallucination, Model drifting, etc.)
   
-  - Optimize your GenAI prompts because not all prompts are created equal. Complex prompts (with detailed steps, examples, and restrictions) are not always better. Breaking them into simpler, sequential  steps or using [prompt compression](https://www.notion.so/Glossary-c2c6f6bbf55849a0887ea495e54e7cd7?pvs=21) can often yield better, more consistent results and efficiency. Test and iterate to find what works best.
+  - Optimize your GenAI prompts because not all prompts are created equal. Complex prompts (with detailed steps, examples, and restrictions) are not always better. Breaking them into simpler, sequential  steps or using [prompt compression](glossary#prompt-compression) can often yield better, more consistent results and efficiency. Test and iterate to find what works best.
   
   - Nurture win-win situation for Product and Engineering/MLOps (Machine Learning Operations) with model optimization. Techniques like quantization, pruning, reduce model size, making deployments and maintenance more efficient, greener and cheaper—and they can run on lower-power devices, too.
   
