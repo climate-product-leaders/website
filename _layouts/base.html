@@ -18,4 +18,20 @@
   </body>
 
   <script async src="https://scripts.withcabin.com/hello.js"></script>
+
+  <script type="module">
+    import tgwf from "https://cdn.skypack.dev/@tgwf/co2";
+    const emissions = new tgwf.co2();
+    
+    // This works in most browsers
+    const r = performance.getEntriesByType("resource");
+    const b = r.reduce((partialSum, a) => partialSum + a.encodedBodySize, 0);
+    
+    const g = false; // Is the data transferred from a green host?
+  
+    let e = emissions.perByte(b, g).toFixed(3) * 1000; // Convert to grams
+  
+    document.getElementById("bytes-transferred").innerHTML = Math.round(b / 1000); // Convert to KB
+    document.getElementById("page-co2e").innerHTML = e;
+    </script>
 </html>
