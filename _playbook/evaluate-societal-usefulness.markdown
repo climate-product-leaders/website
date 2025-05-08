@@ -18,7 +18,7 @@ matter: |
   Product managers have the power to create profitable products that help society and reduce harm to the environment simultaneously, rethinking how to solve a problem entirely with radical innovation. Using systems thinking, a product manager can ensure that a single investment (or product) will solve multiple problems. This is called multisolving.
 
 do: |
-  - Leverage the [5 whys method](https://www.notion.so/Evaluate-societal-usefulness-152e32ff00fd81e8b2e3dbd488b72dbb?pvs=21) to dial into why a product or feature is needed.
+  - Leverage the [5 whys method](https://en.wikipedia.org/wiki/Five_whys) to dial into why a product or feature is needed.
 
   - Try to align your vision with at least one of the 17 [Sustainable Development Goals (SDGs)](https://www.undp.org/sustainable-development-goals).
 

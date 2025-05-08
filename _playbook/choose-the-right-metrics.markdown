@@ -25,7 +25,7 @@ do: |
 
   - Measure data transfer parameters: for example: page weight (in KB), number of requests, and load time (in s). Keep in mind that it will not be the absolute way to measure, but it is a good starting point in your journey.
 
-  - Use the right tools for your context and your needs. See more in [Track your digital footprint](https://www.notion.so/Track-your-digital-footprint-152e32ff00fd818f94bdc9bcaf0d95c7?pvs=21).
+  - Use the right tools for your context and your needs. See more in [Track your digital footprint](choose-the-right-metrics).
 
   - Report these metrics against OKRs and KPIs. Work with your ESG compliance teams to include those metrics in your company reports.
 

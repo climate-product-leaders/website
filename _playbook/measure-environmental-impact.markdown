@@ -23,13 +23,13 @@ do: |
   
   - Include impacts from cloud services, devices, networks, and data centers across their life cycle (manufacturing, distribution, usage, to end of life)
   
-  - [**Choose the right metrics**][LINK TO BEST PRACTICE] and make sure you can measure them fairly quickly to begin assessing improvements
+  - [Choose the right metrics](choose-the-right-metrics) and make sure you can measure them fairly quickly to begin assessing improvements
   
   - Identify measurement frequency and who’s leading the effort
   
   - Pinpoint cost savings and top-of-funnel opportunities that can be achieved and how that directly translates into emissions reduction opportunities
   
-  - Make "Sustainability part of product success criteria" rather than a separate metric to track. (see [Set environmental OKRs (Objectives and Key Results)][LINK TO BEST PRACTICE] to know more)
+  - Make "Sustainability part of product success criteria" rather than a separate metric to track. (see [Set environmental OKRs (Objectives and Key Results)](set-environmental-okrs) to know more)
 
   - Identify someone in your team to represent environmental aspects/concerns of your product during standup meetings.
 
@@ -43,7 +43,7 @@ success: |
   initiatives
 
 consider: |
-  As a product leader, it's important to recognize that you can [Influence your value chain and partners](https://www.notion.so/Influence-your-value-chain-and-partners-152e32ff00fd81c6b79bc948f7c31006?pvs=21) beyond the digital realm, [Influence and collaborate with internal stakeholders](https://www.notion.so/Influence-and-collaborate-with-internal-stakeholders-152e32ff00fd81a3a06af685d3ba01a4?pvs=21), so that it becomes easier to [Prioritize Climate Initiatives](https://www.notion.so/Prioritize-Climate-Initiatives-152e32ff00fd8148bcbff929b089586a?pvs=21). 
+  As a product leader, it's important to recognize that you can [Influence your value chain and partners](influence-your-value-chain) beyond the digital realm, [Influence and collaborate with internal stakeholders](influence-and-collaborate-with-stakeholders), so that it becomes easier to [Prioritize Climate Initiatives](prioritize-climate-initiatives). 
 
   As an example, if shipping emissions are a big chunk of the emissions profile of your e-commerce business, you could lower emissions by reducing the return rate of your physical product (by helping users buy the right product, at the right size, colour, specs, etc.) and by partnering with sustainable, electric local shipping companies. In 2024, around [20% of items purchased online are returned](https://www.mailmodo.com/guides/ecommerce-return-statistics/) (this rate goes beyond 50% in the clothing industry!). Global returning costs are estimated at over $100 billion. A simple back of the envelope calculation shows that for a company with $10M in annual revenue, reducing the return rate from 20% to 10% would save approximately $450,000 in revenue and remove 8t of CO2 emissions from shipping and packaging waste.
 ---

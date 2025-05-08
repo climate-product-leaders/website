@@ -16,7 +16,7 @@ matter: |
   Focusing on digital emissions and impact is critical to building a coherent plan to start or accelerate your sustainability journey. Whether you manage a website, a platform or an app, there are different service providers, tools, and platforms to help you measure your impact and build a compelling pathway to sustainability.
 
 do: |
-  - [**Choose the right metrics**](https://www.notion.so/Choose-the-right-metrics-152e32ff00fd81248ef4e412309806b4?pvs=21)
+  - [**Choose the right metrics**](choose-the-right-metrics)
   
   - Figure out whether you have the resources internally to undertake an initial audit and ongoing measurement, or if you may need to outsource this phase
   
@@ -53,7 +53,7 @@ success: |
   - 🌍 Cross-departmental participation in green initiatives
 
 consider: |
-  You’ll need to [Influence and collaborate with internal stakeholders](https://www.notion.so/Influence-and-collaborate-with-internal-stakeholders-152e32ff00fd81a3a06af685d3ba01a4?pvs=21) to perform such audits. Learning how to speak to all departments and understanding how everyone would benefit from knowing more about their digital footprint will be key. Consider securing a budget to hire specialists. Convert sustainability metrics into metrics they care about - speed, cost, security, value etc.
+  You’ll need to [Influence and collaborate with internal stakeholders](influence-and-collaborate-with-stakeholders) to perform such audits. Learning how to speak to all departments and understanding how everyone would benefit from knowing more about their digital footprint will be key. Consider securing a budget to hire specialists. Convert sustainability metrics into metrics they care about - speed, cost, security, value etc.
 
   As described above, you’ll find many free and open-source tools and digital-specific carbon accounting companies (this market is growing fast, especially in Europe). Here’s a [list of tools and companies the Green Software Foundation](https://github.com/Green-Software-Foundation/awesome-green-software#web) recommends. We recommend solutions that can be measured on an ongoing basis and ideally provide tailored recommendations for your product or business.
 ---
