@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Build Sustainable AI Products"
 order: 100
+icon: /assets/climate-icons/sustainable-ai.png
 
 section: Build Sustainable AI Products
 chapter-tag: sustainable-ai

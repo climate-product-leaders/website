@@ -9,13 +9,14 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 $title-font-family: "Apfel Grotezk", $base-font-family;
+$bold-font-weight: 700 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     32px !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    960px !default;
+$content-width:    65rem !default;
 
 $on-palm:          600px !default;
 $on-laptop:        960px !default;

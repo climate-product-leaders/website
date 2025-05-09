@@ -1,6 +1,38 @@
 /** We are adding this
 */
 
+
+
+
+
+@media screen and (min-width: $on-medium) {
+.chapter-wrapper {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-column-gap: 4rem;
+grid-row-gap: 0px;
+
+
+} } 
+
+
+.chapter {
+
+
+} 
+
+
+
+.intro-chapter{
+  
+  font-size:16px;
+  line-height: 150%;
+  opacity:.7;
+  text-wrap: pretty;
+  width: 95%;
+  font-weight:500;
+}
+
 .about-us {
   &-photo {
     height: 150px;
@@ -33,13 +65,11 @@
   }
 }
 
-.wrapper {
-  padding-right: 0px;
-  padding-left: 0px;
-}
+
 
 ul {
   margin-left: 22px;
+  list-style: none
 }
 .playbook-column2 ul { list-style-type: '✓  ' ; }
 

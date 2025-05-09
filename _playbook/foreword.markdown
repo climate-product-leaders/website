@@ -2,7 +2,6 @@
 layout: best-practice
 title: "Foreword by Aiyana Bodi"
 order: 0
-icon: /assets/climate-icons/Icon-Building.svg
 
 section: Context
 chapter-tag: context
