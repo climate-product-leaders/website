@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "Optimize AI Model Training and Inference"
+title: "Refine Architecture and Assess Latest Trend Impacts"
 order: 150
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "12"
