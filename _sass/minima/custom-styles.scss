@@ -1,13 +1,68 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-body { 
+
+$chapter-colors: (
+  embed-sustainability-into-your-rituals: #E2FCF3,
+  use-your-influence: #EBFDE3,
+  design-frugally: #DAD6F8,
+  discover-mindfully: #F7FEC3,
+  build-sustainable-ai-products: #F7FEC3,
+  become-carbon-aware: #D0D081,
+);
+
+@mixin chapter-background($chapter-name) {
+  background-color: map-get($chapter-colors, $chapter-name);
+}
+
+
+body {
   background-color: #FCFFE7;
-  &.embed-rituals { background-color: #E2FCF3; }
-  &.influence { background-color: #EBFDE3; }
-  &.design-frugally { background-color: #DAD6F8; }
-  &.discover-mindfully { background-color: #F7FEC3; }
-  &.sustainable-ai { background-color: #F7FEC3; }
+  @each $chapter, $color in $chapter-colors {
+    &.#{$chapter} {
+      background-color: $color;
+    }
+  }
+}
+
+
+.arrow-link {
+margin-left: 12px;
+    display: flex;
+        /* CIRCLE SIZE */
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+  @each $chapter, $color in $chapter-colors {
+    &.#{$chapter} {
+      background-color: $color;
+    }
+  }
+}
+
+
+
+
+    .arrow-link>img {
+        background-repeat: no-repeat;
+        /* IMAGE SIZE */
+        width: 12px;
+        height: 12px;
+        aspect-ratio: 1 / 1
+    }
+
+
+.chapter-title {
+padding: 8px 16px;
+border-radius: 800px;
+  background-color: #FCFFE7;
+  @each $chapter, $color in $chapter-colors {
+    &.#{$chapter} {
+      background-color: $color;
+    }
+  }
 }
 
 h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family;  }
@@ -33,18 +88,47 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
 #playbook-contents { 
   list-style: none;
   margin-left: 0;
-  text-transform: uppercase;
+display:flex;
+gap: 160px;
+flex-direction: column;
   margin: 2em 0 2em 0;
   font-size: 1.2em;
   line-height: 2em;
-  .title { font-style: italic; }
+  .title { }
   .number {
     font-weight: bold;
     width: 40px;
     display: inline-block;
   }
-  h3 { margin-top: 1.5em; }
+  h3 { 
+  margin-bottom:0;
+  line-height: 1;
+  font-size: 30px;
+  letter-spacing:-1px;
+  margin-left: -12px; }
+
+  ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  line-height: 1.1;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.5px;
+
+  }
+  li{
+  display:inline;
+  }
 }
+
+
+
+.grid-chapters > div:first-child{
+ grid-column: span 2; 
+}
+
 .best-practice { margin-top: 2em; display: block; width: 100%;}
 
 .playbook-nav {
@@ -71,10 +155,107 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
   }
 }
 
+
+.breadcrumbs ul,
+.breadcrumbs ul li a{
+  display: flex;
+}
+
+.breadcrumbs ul{
+  height: 100%;
+  align-items: left;
+  justify-content: left;
+  list-style-type: none;
+  font-size:12px;
+  text-align:left;
+}
+
+.breadcrumbs ul li{
+  margin-right: 30px;
+  position: relative;
+}
+
+.wrapper ul li:before{
+  content: ">";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -20px;
+  
+}
+
+.wrapper ul li:last-child:before{
+  display: none;
+}
+
 div.bigquote {
   font-size: 1.5em;
   text-align: center;
   margin: 80px auto;
 }
 
-span.highlight { background-color: #E6F56F; }
+span.highlight { font-weight: 400; font-size:42px; background: none; text-wrap: pretty}
+
+
+.icon{
+  height: 28px;
+  aspect-ratio: 1 / 1;
+  margin-right: 8px
+
+}
+
+
+.icon-chapter{
+  
+  width: 250px;
+  margin-bottom: 32px;
+
+  
+}
+
+.chapter-headings{
+  
+
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap:16px;
+}
+
+.best-practice-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+ 
+}
+
+.title{
+  
+  text-wrap: balance;
+  width: 100%;
+}
+
+.playbook-img{
+  
+  width:100%;
+}
+
+
+
+
+
+@media screen and (min-width: $on-medium) {
+.post-title{
+  
+  font-size: 12rem;
+  font-weight: 600;
+} }
+
+
+.playbook-intro{
+  
+margin: 80px 0 160px 0; 
+}
+
+
+.chapter-title.context{border: 1.5px solid black; margin-top:-8px}
