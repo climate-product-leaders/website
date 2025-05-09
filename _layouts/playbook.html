@@ -2,17 +2,21 @@
 layout: base
 ---
 {% assign practices = site.playbook | sort: "order" %}
-<header class="post-header">
-
-<h1 class="post-title">{{ page.title | escape }}</h1>
-
-</header>
-<img src="/assets/img/playbook.png" alt="playbook" class="playbook-img"/>
-
-
- <div class="playbook-intro">
+<header class="post-header playbook-header">
+   <div class="playbook-intro-heading">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <div class="playbook-intro">
 {{ content }}
 </div>
+
+
+</div>
+ <img src="/assets/img/playbook.png" alt="playbook" class="playbook-img"/>
+</header>
+
+
+
+
 {% assign: chapters = practices | map: "section" | uniq %}
 <div id="playbook-contents">
 
@@ -70,7 +74,7 @@ layout: base
               
               
          {% if forloop.first and practice.title != chapter %}
-<span class="title">  {{ practice.title | escape }}  </span>
+<span class="title">  {{ practice.title | escape }}  </span><div class="arrow-link {{ chapter_slug }}"><img src="/assets/img/arrow-link.svg" alt="arrow-link"  /></div>
 {% elsif forloop.first and practice.title == chapter %}
   
 {% else %}
@@ -79,7 +83,13 @@ layout: base
 {% if practice.icon %}
                 <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon" />
               {% endif %}
-  <div class="title">{{ practice.title | escape }}</div>
+  <div class="title">
+{% if practice.number %}
+                {{ practice.number | escape }}.
+              {% endif %}
+
+
+  {{ practice.title | escape }}</div>
  <div class="arrow-link {{ chapter_slug }}"><img src="/assets/img/arrow-link.svg" alt="arrow-link"  /></div>
 {% endif %}
               

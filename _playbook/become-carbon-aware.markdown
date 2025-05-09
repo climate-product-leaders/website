@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Become Carbon Aware"
 order: 600
+icon: /assets/climate-icons/become-carbon-aware.png
 
 section: Become Carbon Aware
 chapter-tag: become-carbon-aware
