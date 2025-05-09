@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Set up a climate working group"
-order: 200
+order: 205
 icon: /assets/climate-icons/Icon-Microphone.svg
 number: "13"
 

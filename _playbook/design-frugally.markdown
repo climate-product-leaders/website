@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Design Frugally"
 order: 500
+icon: /assets/climate-icons/design-frugally.png
 
 section: Design Frugally
 chapter-tag: design-frugally

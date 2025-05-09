@@ -1,7 +1,8 @@
 ---
 layout: best-practice
 title: "Use your influence"
-order: 300
+order: 200
+icon: /assets/climate-icons/use-your-influence.png
 
 section: Use your influence
 chapter-tag: use-your-influence

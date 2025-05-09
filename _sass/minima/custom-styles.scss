@@ -89,11 +89,12 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
   list-style: none;
   margin-left: 0;
 display:flex;
-gap: 160px;
+gap: 8svh;
 flex-direction: column;
   margin: 2em 0 2em 0;
   font-size: 1.2em;
   line-height: 2em;
+  padding-left: 12px;
   .title { }
   .number {
     font-weight: bold;
@@ -237,9 +238,9 @@ span.highlight { font-weight: 400; font-size:42px; background: none; text-wrap: 
 
 .playbook-img{
   
+  
   width:100%;
 }
-
 
 
 
@@ -247,15 +248,40 @@ span.highlight { font-weight: 400; font-size:42px; background: none; text-wrap: 
 @media screen and (min-width: $on-medium) {
 .post-title{
   
-  font-size: 12rem;
+  font-size: 6rem;
   font-weight: 600;
-} }
-
-
-.playbook-intro{
-  
-margin: 80px 0 160px 0; 
+  margin: 0;
+}
 }
 
 
-.chapter-title.context{border: 1.5px solid black; margin-top:-8px}
+
+.chapter-title.context, .chapter-title.conclusion-and-glossary{border: 1.5px solid black; margin-top:-8px}
+
+
+
+.playbook-header{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: end;
+  gap:5%;
+  margin-top:15svh;
+  margin-bottom:6svh;
+  border-bottom: 4px solid black;
+  padding-bottom: 64px;
+}
+
+
+
+.playbook-intro {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    text-wrap: balance;
+    letter-spacing: -.5px;
+}
+
+
+.playbook-intro p {
+    margin:0;
+}

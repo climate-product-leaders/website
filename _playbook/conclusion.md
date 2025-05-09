@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Conclusion"
 order: 700
-icon: /assets/climate-icons/Icon-Briefcase.svg
+
 
 section: Conclusion and Glossary
 chapter-tag: use-your-influence

@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Discover Mindfully"
 order: 300
+icon: /assets/climate-icons/discover-mindfully.png
 
 section: Discover Mindfully
 chapter-tag: discover-mindfully
