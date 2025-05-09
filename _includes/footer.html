@@ -2,16 +2,25 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
+    <h2>Climate Product Leaders</h2>
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+          <a href="https://www.linkedin.com/company/climate-product-leaders">
+            <span>CPL on LinkedIn</span>
+          </a>
+          <br>
+          <a href="https://climateproductleaders.myflodesk.com/">
+            <span>Subscribe to our Newsletter</span>
+          </a>
+          <br>
+          <a href="mailto:hey@climateproductleaders.org">
+            <span>hey@climateproductleaders.org</span>
           </a>
         </p>
+
+        <span style="font-size: medium; text-align: center;">&copy; {{ site.time | date: "%Y" }} <a href="https://climateproductleaders.org">Climate Product Leaders</a>. All rights reserved.</span>
+
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -25,12 +34,8 @@
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
-        <p>Loading this page transferred <span id="bytes-transferred"></span> kb, generating about <span id="page-co2e"></span> g of C02. Calculated with <a href="https://www.thegreenwebfoundation.org/co2-js/">CO2.js</a></p>
+        <p>Loading this page transferred <span id="bytes-transferred"></span> kb of data, generating about <span id="page-co2e"></span>g of C02. Calculated with <a href="https://www.thegreenwebfoundation.org/co2-js/">CO2.js</a></p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
     </div>
 
   </div>
