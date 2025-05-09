@@ -16,7 +16,7 @@ As a **Climate Product Leaders Ambassador**, you’ll:
 
 ### Ready to get started?
 
-1. Read our [Ambassador Program Guidelines](/website/ambassador-program/)
+1. Read our [Ambassador Program Guidelines](/ambassador-program/)
 2. [Submit your application](https://forms.gle/Go7d9AcwagPEX6Jy7)
 3. The CPL team will review your application and follow up soon!
 
@@ -24,7 +24,7 @@ As a **Climate Product Leaders Ambassador**, you’ll:
 
 We rely on your generosity to keep our resources free and accessible to everyone. Your donation directly supports our mission—every contribution counts.
 
-[**→ Donate to CPL**](/website/donate)
+[**→ Donate to CPL**](/donate)
 
 ### Contact us
 To contact our team, please send us an email to hey@climateproductleaders.org

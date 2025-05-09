@@ -7,10 +7,10 @@ order: 30
 
 
 <!-- <div markdown="1" class="about-us-links">
-  <img src="/website/assets/climate-icons/Email.svg">
+  <img src="/assets/climate-icons/Email.svg">
   <a href="mailto:hey@climateproductleaders.org">hey@climateproductleaders.org</a>
 
-  <img src="/website/assets/climate-icons/LinkedIn.png">
+  <img src="/assets/climate-icons/LinkedIn.png">
   <a href="https://www.linkedin.com/company/climate-product-leaders/" target="_blank">Climate Product Leaders on LinkedIn</a>
 </div> -->
 
@@ -40,7 +40,7 @@ Inspire product management leaders around the world to take nature-positive acti
 ### Antoine Cabot
 
 <div markdown="1" class="about-us-photo">
-![](/website/assets/antoine.jpeg)
+![](/assets/antoine.jpeg)
 </div>
 
 I work as a Senior Product Manager at Salesforce,
@@ -69,7 +69,7 @@ to exploring and implementing strategies that promote sustainability. From reduc
 ### François Burra
 
 <div markdown="1" class="about-us-photo">
-![](/website/assets/francois.jpeg)
+![](/assets/francois.jpeg)
 </div>
 
 As a Product Lead and UX strategic consultant, I have spent
@@ -105,7 +105,7 @@ I now train product teams on sustainable digital practices (with
 ### Peter Stovall
 
 <div markdown="1" class="about-us-photo">
-![](/website/assets/peter.jpg)
+![](/assets/peter.jpg)
 </div>
 
 
@@ -133,4 +133,4 @@ Shirish Bhattarai, Stockholm Sweden, [LinkedIn](https://www.linkedin.com/in/shir
 
 # Join us
 
-We are a team of passionate volunteers with the same desire to have an impact and create a greener web. If you’d like to support our work, [become an ambassador](/website/get-involved/). 
+We are a team of passionate volunteers with the same desire to have an impact and create a greener web. If you’d like to support our work, [become an ambassador](/get-involved/). 
