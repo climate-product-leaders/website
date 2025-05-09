@@ -2,7 +2,6 @@
  layout: best-practice
  title: "Introduction"
  order: 1
- icon: /assets/climate-icons/Icon-Building.svg
  
  section: Context
  chapter-tag: context

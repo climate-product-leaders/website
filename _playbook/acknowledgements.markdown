@@ -2,7 +2,6 @@
 layout: best-practice
 title: "Acknowledgements"
 order: 10
-icon: /assets/climate-icons/Icon-Building.svg
 
 section: Context
 chapter-tag: context

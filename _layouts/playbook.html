@@ -2,25 +2,93 @@
 layout: base
 ---
 {% assign practices = site.playbook | sort: "order" %}
-
 <header class="post-header">
-  <h1 class="post-title" style="font-size:4em"><span class="highlight">Sustainable by Design</span>: <br />A Playbook for Product Managers</h1>
+
+<h1 class="post-title">{{ page.title | escape }}</h1>
+
 </header>
+<img src="/website/assets/img/playbook.png" alt="playbook" class="playbook-img"/>
 
+
+ <div class="playbook-intro">
 {{ content }}
-
+</div>
 {% assign: chapters = practices | map: "section" | uniq %}
+<div id="playbook-contents">
 
-
-<ul id="playbook-contents">
   {%- for chapter in chapters -%}
     {% assign chapter_pages = practices | where: "section", chapter %}
-    <h3>{{ chapter }}</h3>
-    {%- for practice in chapter_pages -%}
-      <li><a href="{{ practice.slug }}">
-        {% if practice.number %}<span class="number">{{ practice.number }}</span>{% endif %}
-        <span class="title">{{ practice.title | escape }}</span>
-      </a></li>
-    {%- endfor -%}
+    {% assign chapter_slug = chapter | downcase | replace: ' ', '-' | remove: "'\"" %}
+
+
+
+     <div id="{{ chapter_slug }}" class="chapter">
+
+      <div class="chapter-headings">
+                
+                {%- for practice in chapter_pages -%}
+                       {% if forloop.first %}
+                             {% if practice.icon %}
+                      <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon-chapter" />
+                              {% endif %}
+
+              
+                       {% endif %}
+                {%- endfor -%}
+       </div>
+      <div class="chapter-wrapper">
+           <div class="chapter-headings">
+                
+                  {%- for practice in chapter_pages -%}
+                       {% if forloop.first %}
+
+
+              
+
+              <h3 class="chapter-title {{ chapter_slug }}">{{ chapter }}</h3>
+                                <div class="intro-chapter">
+                                          {% assign quote = practice.content | split: '<div class="bigquote" style="text-align:left;">' %}
+                                          {% if quote.size > 1 %}
+                                            {% assign quote = quote[1] | split: '</div>' %}
+                                            {{ quote[0] | strip }}
+                                          {% endif %}
+                                </div>
+                       {% endif %}
+                  {%- endfor -%}
+            </div>
+            <ul id="{{ chapter }}">
+
+
+         {%- for practice in chapter_pages -%}
+          <li>
+
+
+          
+ 
+
+            <a href="{{ practice.slug }}" class="best-practice-link">
+              
+              
+         {% if forloop.first and practice.title != chapter %}
+<span class="title">  {{ practice.title | escape }}  </span>
+{% elsif forloop.first and practice.title == chapter %}
+  
+{% else %}
+
+
+{% if practice.icon %}
+                <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon" />
+              {% endif %}
+  <div class="title">{{ practice.title | escape }}</div>
+ <div class="arrow-link {{ chapter_slug }}"><img src="/website/assets/img/arrow-link.svg" alt="arrow-link"  /></div>
+{% endif %}
+              
+            </a>
+          </li>
+          {%- endfor -%}
+            </ul>
+</div>
+</div>
   {%- endfor -%}
-</ul>
+
+</div>

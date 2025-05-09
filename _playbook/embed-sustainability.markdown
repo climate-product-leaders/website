@@ -2,7 +2,7 @@
 layout: best-practice
 title: "Embed Sustainability Into Your Rituals"
 order: 10
-icon: /assets/climate-icons/Icon-Building.svg
+icon: /assets/climate-icons/embed-your-rituals.png
 
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
