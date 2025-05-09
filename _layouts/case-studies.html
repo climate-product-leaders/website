@@ -10,7 +10,7 @@ layout: base
 {% assign studies = site.playbook | where: 'case-study', true %}
 
     {%- for study in studies -%}
-      <h2><a href="/website/playbook/{{ study.slug }}">
+      <h2><a href="/playbook/{{ study.slug }}">
         <span class="title">{{ study.title | escape }}</span>
       </a></h2>
     {%- endfor -%}
