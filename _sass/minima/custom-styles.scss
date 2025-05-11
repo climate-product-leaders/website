@@ -65,9 +65,11 @@ border-radius: 800px;
   }
 }
 
-h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family;  }
+h1, .site-header, .chapter-title, .page-number { font-family: $title-font-family;  }
 
-.playbook-hr { margin-bottom: $spacing-unit; }
+
+h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balance;font-weight:700; margin:0}
+
 
 .wrapper, .site-header { border-bottom: none; }
 
@@ -105,7 +107,7 @@ flex-direction: column;
   margin-bottom:0;
   line-height: 1;
   font-size: 30px;
-  letter-spacing:-1px;
+  letter-spacing:-.5px;
   margin-left: -12px; }
 
   ul{
@@ -124,6 +126,16 @@ flex-direction: column;
   }
 }
 
+.playbook-row h2 {text-transform: uppercase; font-size: var(--step-0);  letter-spacing: -.5px;  text-wrap:balance; line-height: 130%; }
+
+.title-casestudy h2{text-decoration: none; font-size: var(--step-0);  letter-spacing: -.5px; margin-bottom: 1rem; line-height: 130%; text-wrap:balance;     max-width: 90%; }
+.title-casestudy {text-decoration: none;display: flex;
+    align-items: flex-start;
+    gap: 0.25rem;}
+
+.title-casestudy > .arrow-link {margin-top: 2px; margin-left: 0 !important}
+
+.wrapper-casestudies{column-count: 2;gap: 4rem; margin-bottom: 12rem}
 
 
 .grid-chapters > div:first-child{
@@ -133,17 +145,21 @@ flex-direction: column;
 .best-practice { margin-top: 2em; display: block; width: 100%;}
 
 .playbook-nav {
-  margin: 3em 0;
+  margin: 8rem 0;
+
   display: block;
   width: 100%;
   height: 3em;
-  text-transform: uppercase;
-  a { width: 40%; }
+   font-weight:700;
+  
+  a { width: 40%;  text-decoration: none}
   &-title {
     width: 100%;
     display: block;
-    font-style: italic;
-    font-size: 0.8em;
+    font-size: 1rem;
+    text-wrap: balance;
+      font-weight:400;
+   
   }
   &-prev {
     float: left;
@@ -189,13 +205,33 @@ flex-direction: column;
   display: none;
 }
 
+
+
+
 div.bigquote {
-  font-size: 1.5em;
-  text-align: center;
-  margin: 80px auto;
+  font-size: var(--step-3);
+  text-align: left;
+  line-height: 120%;
+  font-family: $title-font-family;
+  margin-top: 4rem;
+ 
+  text-wrap: balance;
+  display: flex;
+  width:100%;
+
 }
 
-span.highlight { font-weight: 400; font-size:42px; background: none; text-wrap: pretty}
+
+.div.bigquote > highlight {width:100%}
+
+div.bigquote + p{
+  
+  text-align: left !important;
+
+  margin-top: 1rem
+
+}
+
 
 
 .icon{
@@ -210,6 +246,15 @@ span.highlight { font-weight: 400; font-size:42px; background: none; text-wrap: 
   
   width: 250px;
   margin-bottom: 32px;
+
+  
+}
+
+
+.icon-best-practice{
+  
+  width: 100px;
+  margin-bottom: 0;
 
   
 }

@@ -47,5 +47,5 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">[Branch](https://branch.climateaction.tech/) is an online magazine published by the [Green Web Foundation](https://www.thegreenwebfoundation.org/). Their site changes its design based on the quantity of fossil fuels on the grid to stay inside a carbon budget at all times. This example illustrates how to both adapt your experience and educate your users when the grid intensity is high.</span>
+  <span class="highlight"><a href="https://branch.climateaction.tech/" target="_blank">Branch</a> is an online magazine published by the <a href="https://www.thegreenwebfoundation.org/" target="_blank">Green Web Foundation</a>. Their site changes its design based on the quantity of fossil fuels on the grid to stay inside a carbon budget at all times. This example illustrates how to both adapt your experience and educate your users when the grid intensity is high.</span>
 </div>

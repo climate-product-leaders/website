@@ -137,6 +137,17 @@ a {
 .site-header a{text-decoration: none}
 .best-practice-link {text-decoration: none}
 
+
+p {
+  
+  font-size: 1rem;
+  line-height: 140%;
+  opacity: 0.75;
+  text-wrap: pretty;
+  font-weight: 500;
+
+}
+
 /**
  * Blockquotes
  */
@@ -185,15 +196,7 @@ pre {
   }
 }
 
-.highlight {
-  border-radius: 3px;
-  background: $code-background-color;
-  @extend %vertical-rhythm;
 
-  .highlighter-rouge & {
-    background: $code-background-color;
-  }
-}
 
 
 
