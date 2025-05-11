@@ -13,7 +13,7 @@ previous-page: align-business-models-with-sustainability-goals
 #### Chapter 5
 # Design Frugally
 
-<div class="bigquote" style="text-align:left;"> 
+<div class="intro-chapter" style="text-align:left;"> 
   <p>This section explores how to create digital products that drive impact while minimizing their ecological footprint. It champions the cause of designing digital solutions that are not only effective but also environmentally responsible, challenging the norm of heavy digital consumption with strategies for longevity and sustainability.</p>
 </div>
 

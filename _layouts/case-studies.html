@@ -7,10 +7,16 @@ layout: base
 
 {{ content }}
 
+
+
+<div class="wrapper-casestudies">
+
 {% assign studies = site.playbook | where: 'case-study', true %}
 
     {%- for study in studies -%}
-      <h2><a href="/playbook/{{ study.slug }}">
-        <span class="title">{{ study.title | escape }}</span>
-      </a></h2>
+
+      <a href="/playbook/{{ study.slug }}" class="title-casestudy">
+       <div class="arrow-link {{ chapter_slug }}"><img src="/assets/img/arrow-link.svg" alt="arrow-link"  /></div> <h2>{{ study.title | replace: "Case Study: ", "" | escape }}</h2>
+      </a>
     {%- endfor -%}
+</div>

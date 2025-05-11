@@ -1,24 +1,23 @@
 ---
+title: Acknowledgements
 layout: best-practice
-title: "Acknowledgements"
 order: 10
-
 section: Context
 chapter-tag: context
-
 previous-page: introduction
 next-page: measure-environmental-impact
 ---
 
 # Acknowledgements
 
+
 We couldn't have started this playbook, let alone finish writing it, without the support of some amazing people we met in our respective climate journey and the climate community at large.
 
 A big thank you to our amazing reviewers who provided thoughtful feedback and challenged us to improve every bit of this playbook. We’re forever grateful for your time and dedication to bringing the best climate practices for product managers and fostering climate action further
 
-<h2 style="text-align:center;margin-top:2em">V1 of the Playbook (December 2023)</h2>
+<h2 style="text-align:left;margin-top:2em">V1 of the Playbook (December 2023)</h2>
 
-<ul style="list-style:none;text-align:center;font-size:1.1em;margin-left:0;line-height:1.8em">
+<ul style="list-style:none;text-align:left;font-size:1.1em;margin-left:0;line-height:1.8em">
   <li>Alban Grimaud, Co-founder - Homeric.ai</li>
   <li>Anne Currie, Co-Founder - Strategically GreeH</li>
   <li>Aran Rasmussen, Lead AI Product Manager - Salesfloor</li>
@@ -45,9 +44,9 @@ A big thank you to our amazing reviewers who provided thoughtful feedback and ch
   <li>Yoann Castanié, Co-Founder, Product & Experience Designer - Collective.Design</li>
 </ul>
 
-<h2 style="text-align:center;margin-top:2em">V2 of the Playbook (April 2024)</h2>
+<h2 style="text-align:left;margin-top:2em">V2 of the Playbook (April 2025)</h2>
 
-<ul style="list-style:none;text-align:center;font-size:1.1em;margin-left:0;line-height:1.8em">
+<ul style="list-style:none;text-align:left;font-size:1.1em;margin-left:0;line-height:1.8em">
   <li>Alexander Crease, Product Sustainability Engineer - CarbonGraph</li>
   <li>Ava Yazdani, Senior Product Manager - Mission-Driven Tech</li>
   <li>Ayushi Raj Bhatt, Product Manager Intern - Orama</li>

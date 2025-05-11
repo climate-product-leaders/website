@@ -69,9 +69,19 @@ grid-row-gap: 0px;
 
 ul {
   margin-left: 22px;
-  list-style: none
+  
 }
 .playbook-column2 ul { list-style-type: '✓  ' ; }
+.playbook-section {font-weight: 700; font-family: $title-font-family; padding: 4px 12px; border-radius: 900px; margin-bottom: 2rem; font-size: var(--step-0); background:#00000010; }
+
+
+.playbook-heading{
+  display: flex;
+    align-items: flex-start;
+    flex-direction: column;  
+  text-align:left;
+  gap: 2rem;
+}
 
 .playbook {
   &-section {
@@ -80,11 +90,21 @@ ul {
 
   &-iconAndTitle {
     display: flex;
-    align-items: center;
+   justify-content: space-between;
+  flex-direction: row;  
+  text-align:left;
+  align-items: center;
+  width: 100%;
+    & h1 {
+      
+max-width: 85%;
+    }
 
     & h3 {
       margin-left: 8px;
     }
+
+
   }
 
   &-topRow {
@@ -96,21 +116,34 @@ ul {
 
   &-row {
     display: flex;
-    margin-bottom: 20px;
+    margin: 4rem 0;
+    gap:2rem;
+
   }
 
   &-column1 {
-    flex: 28%
+    flex: 33%
   }
 
   &-column2 {
-    flex: 72%
+    flex: 66%
   }
 
   &-hr {
-    margin: 10px 0px;
-    border: 0.5px solid black
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid black;
   }
+}
+
+.playbook-column1{
+  border-top: 1px solid black;
+  padding-top:.5rem;
+  margin-top:.25rem;
+
 }
 
 /**
@@ -259,7 +292,13 @@ ul {
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: rgba(0, 0, 0, 0.7);;
+  opacity:1
+  
+  & a {
+    color: #000000;
+   
+  }
 }
 
 .footer-col {
