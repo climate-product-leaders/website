@@ -3,8 +3,6 @@ layout: playbook
 title: Playbook
 permalink: /playbook/
 order: 10
-redirect_from:
-  - index.html
 ---
 
 38 nature-positive best practices to enhance your product management skills and contribute to the fight against climate change and biodiversity crises.
