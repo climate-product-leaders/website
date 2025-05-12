@@ -4,6 +4,8 @@ title: "Discover Mindfully"
 order: 300
 icon: /assets/climate-icons/discover-mindfully.png
 
+description: "Consider climate from the start to create a product that meets organization goals, user needs, and minimizes climate impacts."
+
 section: Discover Mindfully
 chapter-tag: discover-mindfully
 
