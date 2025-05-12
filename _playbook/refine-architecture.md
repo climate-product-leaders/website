@@ -8,7 +8,7 @@ number: "12"
 section: Build Sustainable AI Products
 chapter-tag: sustainable-ai
 
-previous-page: optimze-model-training
+previous-page: optimize-model-training
 next-page: case-study-salesforce-llm
 
 

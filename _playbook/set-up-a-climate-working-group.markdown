@@ -8,7 +8,7 @@ number: "13"
 section: Use your influence
 chapter-tag: use-your-influence
 
-previous-page: introduction
+previous-page: use-your-influence
 next-page: influence-and-collaborate-with-stakeholders
 
 

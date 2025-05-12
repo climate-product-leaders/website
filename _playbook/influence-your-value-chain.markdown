@@ -9,7 +9,7 @@ section: Use your influence
 chapter-tag: use-your-influence
 
 previous-page: share-your-commitments
-next-page: discover-mindfully
+next-page: case-study-ethical-designers
 
 
 matter: |
