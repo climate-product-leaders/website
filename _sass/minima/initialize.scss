@@ -6,12 +6,12 @@ $base-font-family: "Public Sans", -apple-system, system-ui, BlinkMacSystemFont, 
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size:  var(--step--1)  !default;
 $base-line-height: 1.5 !default;
 $title-font-family: "Apfel Grotezk", $base-font-family;
 $bold-font-weight: 700 !default;
 
-$spacing-unit:     32px !default;
+$spacing-unit:     2rem !default;
 
 $table-text-align: left !default;
 

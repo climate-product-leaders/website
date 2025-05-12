@@ -151,6 +151,27 @@ max-width: 85%;
   }
 }
 
+
+
+
+@media screen and (max-width: $on-medium) {
+.playbook-iconAndTitle {
+display: flex;
+        flex-direction: column-reverse;
+        text-align: left;
+        align-items: flex-start;
+}
+
+.playbook-row {
+display: flex;
+        flex-direction: column;
+        text-align: left;
+       gap:0;
+}
+
+
+}
+
 .playbook-column1{
   border-top: 1px solid black;
   padding-top:.5rem;
