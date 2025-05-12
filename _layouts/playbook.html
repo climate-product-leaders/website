@@ -51,7 +51,7 @@ layout: base
 
               <h3 class="chapter-title {{ chapter_slug }}">{{ chapter }}</h3>
                                 <div class="intro-chapter">
-                                          {% assign quote = practice.content | split: '<div class="bigquote" style="text-align:left;">' %}
+                                          {% assign quote = practice.content | split: '<div class="intro-chapter" style="text-align:left;">' %}
                                           {% if quote.size > 1 %}
                                             {% assign quote = quote[1] | split: '</div>' %}
                                             {{ quote[0] | strip }}
