@@ -267,7 +267,7 @@ display: flex;
     }
   }
 
-  @media screen and (min-width: $on-medium) {
+  @media screen and (min-width: $on-large) {
     position: static;
     float: right;
     border: none;
