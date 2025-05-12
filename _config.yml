@@ -45,7 +45,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/COVER.jpg
+      image: "https://climateproductleaders.org/assets/COVER.jpg"
 
 # This doesn't seem to work in minima 2.5...
 
