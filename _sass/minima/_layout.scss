@@ -33,6 +33,18 @@ grid-row-gap: 0px;
   font-weight:500;
 }
 
+
+.intro-chapter p{
+  
+  font-size:16px;
+  line-height: 150%;
+  text-wrap: pretty;
+  width: 95%;
+  font-weight:500;
+  opacity: 1;
+}
+
+
 .about-us {
   &-photo {
     height: 150px;
