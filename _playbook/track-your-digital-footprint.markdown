@@ -59,7 +59,7 @@ consider: |
 ---
 
 <div class="bigquote">
-<p><span class="highlight">"Sustainability should be a default practice in product management, not an afterthought. It's about creating products that not only succeed in the market but also respect and preserve our world.”</span></p>
+<span class="highlight">"Sustainability should be a default practice in product management, not an afterthought. It's about creating products that not only succeed in the market but also respect and preserve our world.”</span>
 
-<p><i>—Yvon Chouinard, Founder of Patagonia</i></p>
+<i>—Yvon Chouinard, Founder of Patagonia</i>
 </div>

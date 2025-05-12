@@ -54,9 +54,3 @@ consider: |
 
   The effort to avoid tying your business to inefficiency will likely require cross-functional collaboration and leadership buy in. It may involve changes to the business model to incentivize efficiency and still be profitable. Organizations should empower product managers to raise concerns around efficiency from the start. It is better for the business, users, and the climate when a product is well-designed and efficient.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
