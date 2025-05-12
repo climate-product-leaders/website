@@ -207,9 +207,9 @@ pre {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  padding-inline: $spacing-unit;
+  padding-right: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5 ;
+  padding-inline: $spacing-unit * 0.5;
 
   @extend %clearfix;
 

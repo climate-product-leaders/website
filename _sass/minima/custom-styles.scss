@@ -18,6 +18,7 @@ $chapter-colors: (
 
 body {
   background-color: #FCFFE7;
+
   @each $chapter, $color in $chapter-colors {
     &.#{$chapter} {
       background-color: $color;
@@ -90,25 +91,29 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
 #playbook-contents { 
   list-style: none;
   margin-left: 0;
-display:flex;
-gap: 8svh;
-flex-direction: column;
+  display:flex;
+  gap: 8svh;
+  flex-direction: column;
   margin: 2em 0 2em 0;
   font-size: 1.2em;
   line-height: 2em;
   padding-left: 12px;
+  
   .title { }
+  
   .number {
     font-weight: bold;
     width: 40px;
     display: inline-block;
   }
+  
   h3 { 
   margin-bottom:0;
   line-height: 1;
-  font-size: 30px;
-  letter-spacing:-.5px;
-  margin-left: -12px; }
+  font-size: var(--step-1);
+  letter-spacing:-.015rem;
+  margin-left: -12px;
+  text-wrap: pretty }
 
   ul{
   list-style: none;
@@ -119,12 +124,19 @@ flex-direction: column;
   font-weight: 700;
   font-size: 18px;
   letter-spacing: -.5px;
+    margin:0;
 
   }
   li{
   display:inline;
   }
 }
+
+
+
+
+
+
 
 .playbook-row h2 {text-transform: uppercase; font-size: var(--step-0);  letter-spacing: -.5px;  text-wrap:balance; line-height: 130%; }
 
@@ -136,6 +148,15 @@ flex-direction: column;
 .title-casestudy > .arrow-link {margin-top: 2px; margin-left: 0 !important}
 
 .wrapper-casestudies{column-count: 2;gap: 4rem; margin-bottom: 12rem}
+
+
+
+
+@media screen and (max-width: $on-medium) {
+.wrapper-casestudies{column-count: 1;}
+
+}
+
 
 
 .grid-chapters > div:first-child{
@@ -305,6 +326,19 @@ div.bigquote + p{
 
 
 
+
+
+
+.playbook-header{
+  
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+}
+
+
+
+@media screen and (min-width: $on-medium) {
 .playbook-header{
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -314,7 +348,8 @@ div.bigquote + p{
   margin-bottom:6svh;
   border-bottom: 4px solid black;
   padding-bottom: 64px;
-}
+} } 
+
 
 
 
