@@ -8,7 +8,7 @@ number: "26"
 section: Design Frugally
 chapter-tag: design-frugally
 
-previous-page: align-business-models-with-sustainability-goals
+previous-page: design-frugally
 next-page: reduce-page-weight-and-complexity
 
 

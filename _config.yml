@@ -40,6 +40,13 @@ collections:
 include:
   - _pages
 
+# This sets front matter defaults for all pages (so we can set a default social share image)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "https://climateproductleaders.org/assets/COVER.jpg"
+
 # This doesn't seem to work in minima 2.5...
 
 # minima:

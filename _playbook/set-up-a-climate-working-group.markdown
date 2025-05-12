@@ -8,7 +8,7 @@ number: "13"
 section: Use your influence
 chapter-tag: use-your-influence
 
-previous-page: introduction
+previous-page: use-your-influence
 next-page: influence-and-collaborate-with-stakeholders
 
 
@@ -52,9 +52,3 @@ consider: |
   
   Lastly, being receptive to feedback and adaptable to a changing climate ecosystem ensures the working group remains relevant and impactful.
 ---
-
-<div class="bigquote">
-  <span class="highlight">"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth."</span>
-</div>
-
-<p style="text-align:center;">—Satya Nadella, <a href="https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ">Chairman and CEO at Microsoft</a></p>
