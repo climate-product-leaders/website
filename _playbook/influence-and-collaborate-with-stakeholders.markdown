@@ -8,7 +8,7 @@ number: "14"
 section: Use your influence
 chapter-tag: use-your-influence
 
-previous-page: setup-a-private-working-group
+previous-page: set-up-a-climate-working-group
 next-page: organize-talks
 
 

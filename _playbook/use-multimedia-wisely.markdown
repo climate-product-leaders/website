@@ -8,7 +8,7 @@ number: "28"
 section: Design Frugally
 chapter-tag: design-frugally
 
-previous-page: reduce-page-weight
+previous-page: reduce-page-weight-and-complexity
 next-page: optimize-multimedia-files
 
 
