@@ -3,7 +3,7 @@ layout: best-practice
 title: "Case Study: Systemic Design for Sustainable Digital Services"
 order: 250
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 case-study: true

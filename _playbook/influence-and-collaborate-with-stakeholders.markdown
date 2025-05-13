@@ -5,7 +5,7 @@ order: 210
 icon: /assets/climate-icons/Icon-Business Network.svg
 number: "14"
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 previous-page: set-up-a-climate-working-group

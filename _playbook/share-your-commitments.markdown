@@ -5,7 +5,7 @@ order: 230
 icon: /assets/climate-icons/Icon-Communaute.svg
 number: "16"
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 previous-page: organize-talks
