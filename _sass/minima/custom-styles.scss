@@ -79,6 +79,8 @@ h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balan
 .wrapper, .site-header { border-bottom: none; }
 .wrapper { max-width: calc(60rem - 2rem * 2); }
 
+.home img { margin-top: 2em; }
+
 .hero {
   font-size: 3em;
   font-weight: bold;
@@ -86,9 +88,13 @@ h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balan
   text-align: left;
   line-height: 1em;
 }
-
-.home img { margin-top: 2em; }
-p img { opacity: 1; }
+.cta-button {
+  display: inline-block;
+  background-color: #BEF9A2;
+  padding: 1em 2em;
+  border-radius: 3em;
+  font-weight: 700;;
+}
 
 .playbook-topRow img { margin: 0; }
 .playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
@@ -404,4 +410,9 @@ ul.chapter-nav {
   li {
     padding: 10px 0;
   }
+}
+
+a:hover {
+  color: #000;
+  opacity: .75;;
 }
