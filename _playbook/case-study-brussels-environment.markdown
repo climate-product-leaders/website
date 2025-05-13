@@ -8,6 +8,8 @@ chapter-tag: embed-rituals
 
 case-study: true
 
+description: "Brussels Environment's Eco-Design Revamp Achieves Top Belgian Sustainable IT Certification"
+
 previous-page: onboard-developers-and-designers
 next-page: build-sustainable-ai-products
 ---

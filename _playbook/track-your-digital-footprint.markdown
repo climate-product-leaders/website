@@ -5,6 +5,8 @@ order: 40
 icon: /assets/climate-icons/Icon-Graph.svg
 number: "03"
 
+description: "Track & Reduce Your Digital Carbon Footprint with Sustainability Tools"
+
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 

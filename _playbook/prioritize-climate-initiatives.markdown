@@ -5,6 +5,8 @@ order: 60
 icon: /assets/climate-icons/Icon-Star.svg
 number: "05"
 
+description: "Incorporate Climate Initiatives in Product Development for Strategic Sustainability"
+
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 

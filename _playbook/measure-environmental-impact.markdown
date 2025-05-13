@@ -11,6 +11,8 @@ chapter-tag: embed-rituals
 previous-page: embed-sustainability
 next-page: choose-the-right-metrics
 
+description: "Guide to Reducing Product Emissions: Mastering Value Chain and Lifecycle Analysis"
+
 matter: |
   Understanding the source of your product emissions is important to prioritize the most effective pathway to reduce emissions. It will also help you realize the impact of digital technologies to your operation’s overall carbon footprint. Since most emissions from digital products originate from your [supply chain (scope 3)](https://ghgprotocol.org/blog/you-too-can-master-value-chain-emissions), measuring them can be challenging, as you depend on suppliers to provide this information and data points. 
 

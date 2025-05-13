@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: "Best practices and patterns for climate-conscious product management."
 ---
 
 <p class="hero">Best practices and strategies for climate-conscious product management</p>
