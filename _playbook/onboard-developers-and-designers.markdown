@@ -5,6 +5,8 @@ order: 80
 icon: /assets/climate-icons/Icon-CollabCrea.svg
 number: "07"
 
+description: "Guide to Sustainable Onboarding for Devs and Designers: Eco-Friendly Practices"
+
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 

@@ -5,6 +5,8 @@ order: 30
 icon: /assets/climate-icons/Icon-Target.svg
 number: "02"
 
+description: "Optimize Environmental Impact with Key Metrics: Emissions, Energy & Resources"
+
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 

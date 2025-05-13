@@ -5,6 +5,8 @@ order: 50
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "04"
 
+description: "Implementing Environmental OKRs for Business Success and ESG Compliance"
+
 section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 
