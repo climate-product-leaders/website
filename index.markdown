@@ -8,6 +8,8 @@ description: "Best practices and patterns for climate-conscious product manageme
 
 <p class="hero">Best practices and strategies for climate-conscious product management</p>
 
+<div class="cta-button"><a href="/playbook">View The Playbook</a> →</div>
+
 ![](/assets/img/mine-dithered.png)
 
 # Digital Is Physical
@@ -28,4 +30,4 @@ that the servers, data centers, end-user devices, and vast infrastructure
 enabling our digital experiences are grounded in physical reality,
 consuming environmental resources and energy.
 
-[View The Playbook »](/playbook/)
+<div class="cta-button"><a href="/playbook">View The Playbook</a> →</div>
