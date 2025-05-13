@@ -14,7 +14,7 @@ previous-page: case-study-raptor-maps
 # Become Carbon Aware
 
 <div class="intro-chapter" style="text-align:left;"> 
-  <p>Here, the spotlight is on the criticality of understanding and acting on the carbon footprint of digital products. This segment equips you with the knowledge to measure, reduce, and manage your carbon impact, emphasizing a move toward greener technology and sustainable innovation. It’s a guide to going further than existing standards in the tech industry and setting the bar higher.</p>
+  Here, the spotlight is on the criticality of understanding and acting on the carbon footprint of digital products. This segment equips you with the knowledge to measure, reduce, and manage your carbon impact, emphasizing a move toward greener technology and sustainable innovation. It’s a guide to going further than existing standards in the tech industry and setting the bar higher.
 </div>
 
 <div class="bigquote">

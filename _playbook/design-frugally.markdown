@@ -14,7 +14,7 @@ previous-page: align-business-models-with-sustainability-goals
 # Design Frugally
 
 <div class="intro-chapter" style="text-align:left;"> 
-  <p>This section explores how to create digital products that drive impact while minimizing their ecological footprint. It champions the cause of designing digital solutions that are not only effective but also environmentally responsible, challenging the norm of heavy digital consumption with strategies for longevity and sustainability.</p>
+  This section explores how to create digital products that drive impact while minimizing their ecological footprint. It champions the cause of designing digital solutions that are not only effective but also environmentally responsible, challenging the norm of heavy digital consumption with strategies for longevity and sustainability.
 </div>
 
 <div class="bigquote">
