@@ -24,14 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Best practices and patterns for climate-conscious product management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://climateproductleaders.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-target-blank
 
 collections:
   playbook:

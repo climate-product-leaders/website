@@ -75,6 +75,9 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-target-blank (2.0.2)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.5.1)
@@ -91,6 +94,7 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     method_source (1.1.0)
+    mini_portile2 (2.8.9)
     minima (2.5.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -98,12 +102,16 @@ GEM
     multi_json (1.15.0)
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
+    nokogiri (1.18.8)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pry (0.15.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (6.0.2)
+    racc (1.8.1)
     rack (3.1.14)
     rack-protection (4.1.1)
       base64 (>= 0.1.0)
@@ -203,6 +211,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.12)
   jekyll-redirect-from
+  jekyll-target-blank
   liquid-pry
   logger
   minima (~> 2.5)
