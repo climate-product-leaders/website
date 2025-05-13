@@ -3,10 +3,12 @@ layout: page
 title: Donate
 permalink: /donate/
 order: 100
+description: "In the face of our climate crisis, innovative solutions are essential. Climate Product Leaders brings together dedicated product managers, designers, and tech professionals focused on developing effective climate technologies."
 ---
-## Support Climate Product Leaders today!
 
 In the face of our climate crisis, innovative solutions are essential. Climate Product Leaders brings together dedicated product managers, designers, and tech professionals focused on developing effective climate technologies.
+
+## Support Climate Product Leaders today!
 
 **Climate Product Leaders is a non-profit that's 100% driven by volunteers and donations**
 

@@ -9,7 +9,7 @@ section: Discover Mindfully
 chapter-tag: discover-mindfully
 
 previous-page: reuse-and-recycle
-next-page: design-frugally
+next-page: case-study-soft-disabling
 
 
 matter: |

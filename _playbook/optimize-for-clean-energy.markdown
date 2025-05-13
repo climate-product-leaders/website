@@ -9,7 +9,7 @@ section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
 previous-page: set-up-ultra-eco-mode
-next-page: pause-or-deactivate-services-tactically
+next-page: case-study-salesforce-servers
 
 
 matter: |

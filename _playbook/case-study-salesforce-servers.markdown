@@ -8,8 +8,8 @@ chapter-tag: become-carbon-aware
 
 case-study: true
 
-previous-page: set-up-ultra-eco-mode
-next-page: optimize-for-clean-energy
+previous-page: optimize-for-clean-energy
+next-page: pause-or-deactivate-services-tactically
 ---
 
 # Case Study: Automated Server Decommissioning: Achieving Carbon Reduction at Scale for a Greener Future

@@ -5,6 +5,8 @@ order: 520
 icon: /assets/climate-icons/Icon-Forward.svg
 number: "27"
 
+description: "Cut page weight and complexity to boost speed, lower emissions, support older devices, and create more inclusive digital experiences."
+
 section: Design Frugally
 chapter-tag: design-frugally
 

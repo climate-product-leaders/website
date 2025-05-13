@@ -5,6 +5,8 @@ order: 510
 icon: /assets/climate-icons/Icon-Forward.svg
 number: "26"
 
+description: "Design lean user journeys that meet needs, boost UX, cut carbon emissions, and reduce cloud and maintenance costs."
+
 section: Design Frugally
 chapter-tag: design-frugally
 

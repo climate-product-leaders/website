@@ -7,7 +7,7 @@ order: 700
 section: Conclusion and Glossary
 chapter-tag: use-your-influence
 
-previous-page: pause-or-deactivate-services-tactically
+previous-page: case-study-illumina
 next-page: glossary
 ---
 

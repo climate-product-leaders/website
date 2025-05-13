@@ -5,11 +5,13 @@ order: 550
 icon: /assets/climate-icons/Icon-Transfert.svg
 number: "30"
 
+description: "Reduce data transfer and storage to lower emissions, improve performance, and cut cloud costs with smart formats, caching, and cleanup."
+
 section: Design Frugally
 chapter-tag: design-frugally
 
 previous-page: optimize-multimedia-files
-next-page: kill-unused-features
+next-page: case-study-leboncoin-traffic-reduction
 
 
 matter: |

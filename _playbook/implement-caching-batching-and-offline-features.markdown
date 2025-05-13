@@ -9,7 +9,7 @@ section: Design Frugally
 chapter-tag: design-frugally
 
 previous-page: delete-old-user-accounts-and-old-data
-next-page: become-carbon-aware
+next-page: case-study-raptor-maps
 
 
 matter: |
