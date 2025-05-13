@@ -4,6 +4,8 @@ title: "Design Frugally"
 order: 500
 icon: /assets/climate-icons/design-frugally.png
 
+description: "Create digital products that drive impact while minimizing their ecological footprint."
+
 section: Design Frugally
 chapter-tag: design-frugally
 

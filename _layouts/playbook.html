@@ -17,88 +17,67 @@ layout: base
 
 
 
-{% assign: chapters = practices | map: "section" | uniq %}
+{% assign chapters = practices | map: "section" | uniq %}
 <div id="playbook-contents">
-
   {%- for chapter in chapters -%}
     {% assign chapter_pages = practices | where: "section", chapter %}
     {% assign chapter_slug = chapter | downcase | replace: ' ', '-' | remove: "'\"" %}
 
-
-
-     <div id="{{ chapter_slug }}" class="chapter">
-
+    <div id="{{ chapter_slug }}" class="chapter">
       <div class="chapter-headings">
-                
-                {%- for practice in chapter_pages -%}
-                       {% if forloop.first %}
-                             {% if practice.icon %}
-                      <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon-chapter" />
-                              {% endif %}
-
-              
-                       {% endif %}
-                {%- endfor -%}
-       </div>
+        {%- for practice in chapter_pages -%}
+          {% if forloop.first and practice.icon %}
+            <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon-chapter" />
+          {% endif %}
+        {%- endfor -%}
+      </div>
       <div class="chapter-wrapper">
-           <div class="chapter-headings">
-                
-                  {%- for practice in chapter_pages -%}
-                       {% if forloop.first %}
-
-
-              
-
+        <div class="chapter-headings">
+          {%- for practice in chapter_pages -%}
+            {% if forloop.first %}
               <h3 class="chapter-title {{ chapter_slug }}">{{ chapter }}</h3>
-                                <div class="intro-chapter">
-                                          {% assign quote = practice.content | split: '<div class="intro-chapter" style="text-align:left;">' %}
-                                          {% if quote.size > 1 %}
-                                            {% assign quote = quote[1] | split: '</div>' %}
-                                            {{ quote[0] | strip }}
-                                          {% endif %}
-                                </div>
-                       {% endif %}
-                  {%- endfor -%}
-            </div>
-            <ul id="{{ chapter }}">
-
-
-         {%- for practice in chapter_pages -%}
-          <li>
-
-
-          
- 
-
-            <a href="{{ practice.slug }}" class="best-practice-link">
-              
-              
-         {% if forloop.first and practice.title != chapter %}
-<span class="title">  {{ practice.title | escape }}  </span><div class="arrow-link {{ chapter_slug }}"><img src="/assets/img/arrow-link.svg" alt="arrow-link"  /></div>
-{% elsif forloop.first and practice.title == chapter %}
-  
-{% else %}
-
-
-{% if practice.icon %}
-                <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon" />
-              {% endif %}
-  <div class="title">
-{% if practice.number %}
-                {{ practice.number | escape }}.
-              {% endif %}
-
-
-  {{ practice.title | escape }}</div>
- <div class="arrow-link {{ chapter_slug }}"><img src="/assets/img/arrow-link.svg" alt="arrow-link"  /></div>
-{% endif %}
-              
-            </a>
-          </li>
+              <div class="intro-chapter">
+                {% assign quote = practice.content | split: '<div class="intro-chapter" style="text-align:left;">' %}
+                {% if quote.size > 1 %}
+                  {% assign quote = quote[1] | split: '</div>' %}
+                  {{ quote[0] | strip }}
+                {% endif %}
+              </div>
+            {% endif %}
           {%- endfor -%}
-            </ul>
-</div>
-</div>
+        </div>
+        <ul id="{{ chapter }}">
+          {%- for practice in chapter_pages -%}
+            <li>
+              <a href="{{ practice.slug }}" class="best-practice-link">
+                {% if forloop.first and practice.title != chapter %}
+                  <span class="title">{{ practice.title | escape }}</span>
+                  <div class="arrow-link {{ chapter_slug }}">
+                    <img src="/assets/img/arrow-link.svg" alt="arrow-link" />
+                  </div>
+                {% elsif forloop.first and practice.title == chapter %}
+                  <!-- Skip rendering -->
+                {% else %}
+                  {% if practice.icon %}
+                    <img src="{{ practice.icon | prepend: site.baseurl }}" alt="{{ practice.title }}" class="icon" />
+                  {% endif %}
+                  <div class="title">
+                    {% if practice.number %}
+                      {{ practice.number | escape }}.
+                    {% endif %}
+                    {{ practice.title | escape }}
+                  </div>
+                  <div class="arrow-link {{ chapter_slug }}">
+                    <img src="/assets/img/arrow-link.svg" alt="arrow-link" />
+                  </div>
+                {% endif %}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
   {%- endfor -%}
+</div>
 
 </div>

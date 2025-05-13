@@ -5,7 +5,7 @@ order: 205
 icon: /assets/climate-icons/Icon-Microphone.svg
 number: "13"
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 previous-page: use-your-influence
