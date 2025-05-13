@@ -89,9 +89,7 @@ focus shifted to assisting digital peers, product teams, and
 companies in harnessing the power of the net zero opportunity
 and reducing their digital emissions.
 
-I now train product teams on sustainable digital practices (with
-[Product for Net Zero](https://productfornetzero.com/){:target="_blank"}), help companies measure digital footprint
-(with [fruggr](https://www.fruggr.io/){:target="_blank"}), and build low-carbon experiences.
+I help organizations [reduce their digital emissions](https://www.francoisburra.com/). I provide training in digital decarbonization and sustainable AI (1,000+ people trained to date), measures organizations' digital footprint, and create low-carbon experiences.
 
 ### Peter Stovall
 
