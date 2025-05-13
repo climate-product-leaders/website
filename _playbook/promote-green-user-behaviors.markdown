@@ -11,6 +11,7 @@ next-page: set-up-ultra-eco-mode
 matter: |-
   Individuals play a crucial role in addressing the climate and biodiversity crises through electing governments and influencing societal change. While some consumers actively engage and expect businesses to take environmental action, not everyone will embrace environmentalism immediately. Education remains essential for building awareness, empowering mindful choices, and advancing sustainability.
   Businesses must also take responsibility by making sustainable choices the default in their products. This approach reduces friction for users and increases adoption of green features and behaviours.
+
 do: |-
   - Make the sustainable option the default one for your product as much as possible (e.g. choosing the lowest carbon-emitting option for users: itinerary, delivery method, product, enabling carbon-aware charging features, etc.)
 
@@ -23,14 +24,22 @@ do: |-
   - Enable users to see the impact of their actions: emissions reduction and positive impact of initiatives supported. However, it is important to note that you should not shift environmental responsibility onto end users. This responsibility falls on you and your company.
 
   - Recognize and reward eco-conscious user action
-success: "- \U0001F9D1 Increased adoption of product features that promote sustainability\n\n-
-  \U0001F9D1 Positive reception and user engagement with eco-friendly features\n\n-
-  \U0001F30D Energy efficiency measures leading to decreased consumption\n\n- \U0001F30D\U0001F4B0
-  Adoption of cleaner electricity sources for operations\n\n- \U0001F30D Established
-  targets for reduced carbon and greenhouse gas emissions"
+
+success: |-
+  - 🧑 Increased adoption of product features that promote sustainability
+
+  - 🧑 Positive reception and user engagement with eco-friendly features
+
+  - 🌍 Energy efficiency measures leading to decreased consumption
+
+  - 🌍💰 Adoption of cleaner electricity sources for operations
+
+  - 🌍 Established targets for reduced carbon and greenhouse gas emissions
+
 consider: |-
   When communicating with users, especially to influence behavior, work closely with your Marketing and Product Marketing teams. The right tone and content are essential—avoid moralizing and focus on a positive, uplifting approach.
-  Empathy is crucial. Use relatable, real-life examples to illustrate benefits in meaningful ways (see [*Green Nudges](https://www.green-nudges.com/)* for inspiration). Simply citing CO₂e savings or comparing them to cars taken off the road won't resonate with everyone. Instead, research your audience, understand their values, and frame your message in ways that feel personally relevant and compelling.
+  Empathy is crucial. Use relatable, real-life examples to illustrate benefits in meaningful ways (see [*Green Nudges*](https://www.green-nudges.com/) for inspiration). Simply citing CO₂e savings or comparing them to cars taken off the road won't resonate with everyone. Instead, research your audience, understand their values, and frame your message in ways that feel personally relevant and compelling.
+  
   Be sure to validate through user testing how your changes affect long-term user behavior.
 ---
 

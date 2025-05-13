@@ -16,7 +16,7 @@ next-page: pause-or-deactivate-services-tactically
 
 ## Challenge
 
-The tech sector plays a major role in global energy usage and carbon emissions — projected to account for up to [20% of global energy demands by 2030](https://www.mdpi.com/2078-1547/6/1/117). Data centers are major contributors, using over 205 terawatt hours of electricity each year ([IEA, 2022](https://www.iea.org/reports/data-centres-and-data-transmission-networks)), exceeding the energy consumption of entire countries like [Taiwan, Ireland, and Denmark](https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html).
+The tech sector plays a major role in global energy usage and carbon emissions — projected to account for up to [20% of global energy demands by 2030](https://www.mdpi.com/2078-1547/6/1/117). Data centers are major contributors, using over 205 terawatt hours of electricity each year ([IEA, 2022](https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks)), exceeding the energy consumption of entire countries like [Taiwan, Ireland, and Denmark](https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html).
 
 Addressing this urgent issue, Salesforce remains committed to reducing energy usage and carbon emissions in data centers by optimizing and reducing servers, aligning with the company's sustainability values and pledge to [cut emissions in half by 2030](https://www.salesforce.com/company/sustainability/)). The [Salesforce Decommissioning Program](https://engineering.salesforce.com/automated-server-decommissioning-achieving-carbon-reduction-at-scale-for-a-greener-future/) (SDP) team leads this effort, aiming to retire more than double the number of servers compared to the previous year.
 

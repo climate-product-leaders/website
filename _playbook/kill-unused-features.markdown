@@ -28,7 +28,7 @@ do: |
 
   - Define feature life expectancy and conditions/triggers for retirement in the Product Requirement Documents (PRD)
   
-  - Implement a regular and structured process for retiring features/products, see [chapter 1](embed-sustainability-into-your-rituals)
+  - Implement a regular and structured process for retiring features/products, see [chapter 1](embed-sustainability)
 
 success: |
   - 🧑💰 Accelerated development cycles emphasizing efficient resource use

@@ -18,7 +18,7 @@ matter: |
   We cannot create new products without considering their impact on people, the economy, society, and the environment. Sustainable design is essential for addressing the climate emergency, maintaining a competitive business edge, and moving toward a regenerative society. Consequence scanning is essential during the discovery phase. It helps you identify potential gaps, risks, and unintended consequences of your digital product at an early stage.
 
 do: |
-  - Check out these handy toolkits: [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/), [Consequences Scanning](https://www.tech-transformed.com/product-development/) or [Stop Designing for Yesterday](https://www.sdfy.org/) to identify the impact and consequences (intended and unintended) of your feature, product or service on the environment and society.
+  - Check out these handy toolkits: [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/) or [Consequences Scanning](https://www.tech-transformed.com/product-development/) to identify the impact and consequences (intended and unintended) of your feature, product or service on the environment and society.
 
   - Use the [9 planetary boundaries](https://www.stockholmresilience.org/research/planetary-boundaries/the-nine-planetary-boundaries.html) to structure your thinking about environmental consequences.
 
@@ -36,7 +36,7 @@ do: |
 
   - Think about the forces shaping your product’s future on a long-term horizon (e.g. 30 years) using the acronym [STEEPLED](https://pestleanalysis.com/steepled-analysis/) — **S**ocial, **T**echnological, **E**conomic, **E**nvironmental, **P**olitical, **L**egal, **E**thical and **D**emographic.
 
-  - Leverage an “[Externality Matrix](https://beta.designersethiques.org/thematique-design-systemique/matrice-analyse-externalites)” to avoid 1) anthropocentric vision (or user-centric vs. environment/ multiple actors) ; 2) short-term imperatives for design.
+  - Leverage an “[Externality Matrix (FR)](https://designersethiques.org/fr/thematiques/design-systemique/matrice-analyse-externalites)” to avoid 1) anthropocentric vision (or user-centric vs. environment/ multiple actors) ; 2) short-term imperatives for design.
 
 success: |
   - 🌍 Collective efforts to gauge and reduce ecological footprints

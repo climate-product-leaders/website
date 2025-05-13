@@ -34,7 +34,9 @@ do: |
   
 success: |
   - 🌍Collective efforts to gauge and reduce ecological footprints
+
   - 🌍Cross-departmental participation in green initiatives
+
   - 🌍Established targets for reduced carbon and greenhouse gas emissions
 
 consider: |
