@@ -11,7 +11,7 @@ section: Design Frugally
 chapter-tag: design-frugally
 
 previous-page: optimize-multimedia-files
-next-page: kill-unused-features
+next-page: case-study-leboncoin-traffic-reduction
 
 
 matter: |

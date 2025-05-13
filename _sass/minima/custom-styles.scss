@@ -69,7 +69,7 @@ border-radius: 800px;
 h1, .site-header, .chapter-title, .page-number { font-family: $title-font-family;  }
 
 
-h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balance;font-weight:700; margin:0}
+h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balance;font-weight:700; margin:0 0 2rem 0}
 
 
 .wrapper, .site-header { border-bottom: none; }
@@ -331,7 +331,7 @@ div.bigquote + p{
   
   font-size: 6rem;
   font-weight: 600;
-  margin: 0;
+  margin: 2rem 0;
 }
 }
 

@@ -3,6 +3,7 @@ layout: page
 title: Get Involved
 permalink: /get-involved/
 order: 40
+description: "Are you passionate about climate solutions and digital innovation? Become an Ambassador and help shape the future of sustainable digital product management."
 ---
 
 Are you passionate about climate solutions and digital innovation? Become an Ambassador and help shape the future of sustainable digital product management.
