@@ -9,10 +9,10 @@ chapter-tag: context
 next-page: introduction
 ---
 
-<div style="padding:40px;margin:40px -40px;border-radius:10px;background:#BEF9A2;font-size:1.1em;">
+<div style="padding:3rem;margin:auto;border-radius:10px;background:#BEF9A2;font-size:1em; max-width: 680px;margin-top: 2rem" class="foreword">
   <h1>Foreword</h1>
 
-  <p><b>It is clear that, as a whole, private sector action is not meeting the scale or severity of the climate crisis.</b></p>
+  <p style="font-size:1.4em;letter-spacing: -.5px; line-height: 1.2"><b>It is clear that, as a whole, private sector action is not meeting the scale or severity of the climate crisis.</b></p>
   
   <p>Companies must redefine what they believe to be ambitious climate action and change how they do business to align with a healthy climate for the planet and all people. And while businesses may seem like unmovable entities driven by profit, we often forget one key detail: they are made up of people. They consist of employees like you and me, each with a unique set of passions, skills, and knowledge.</p> 
   
@@ -22,7 +22,7 @@ next-page: introduction
 
   <p>Product managers work with some of the most strategic levers for ensuring climate is a central part of business decisions—using their existing position and expertise, they can support their companies in becoming climate champions. In this playbook, you will learn that to be a product leader is to also be a climate leader.</p>
 
-  <p style="font-style:italic;">—Aiyana Bodi</p>
+  <p>—Aiyana Bodi <br>Manager, Employee Engagement, Drawdown Business Coalition</p>
 
-  <p>Manager, Employee Engagement, Drawdown Business Coalition</p>
+  <p></p>
 </div>

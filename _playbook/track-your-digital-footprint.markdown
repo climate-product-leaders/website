@@ -49,7 +49,8 @@ do: |
   - Communicate findings, prioritize the biggest reduction opportunities with your team, and build a roadmap accordingly
 
 success: |
-  - 🌍 Collective efforts to gauge and reduce ecological footprints 
+  - 🌍 Collective efforts to gauge and reduce ecological footprints
+
   - 🌍 Cross-departmental participation in green initiatives
 
 consider: |
@@ -59,6 +60,7 @@ consider: |
 ---
 
 <div class="bigquote">
+
 <span class="highlight">"Sustainability should be a default practice in product management, not an afterthought. It's about creating products that not only succeed in the market but also respect and preserve our world.”</span>
 </div>
 
