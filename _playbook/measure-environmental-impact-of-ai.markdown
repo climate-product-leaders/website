@@ -26,7 +26,7 @@ do: |
     - Use “model cards” that document the features and performance characteristics of AI models in a consistent and standardized form. Check out [Hugging Face](https://huggingface.co/spaces/AIEnergyScore/Leaderboard) guides that disclose the environmental footprint of a wide range of models with their Energy Score for AI models proposal.
     - Demand detailed energy consumption reports directly from your vendors such as cloud providers or labs, since they are best-positioned to supply accurate figures.
 
-  - Track the [inference](glossary#inference) footprint at the task level, as for the same task, different models can use different amounts of energy$^3$.
+  - Track the [inference](glossary#inference) footprint at the task level, as for the same task, different models can use different amounts of energy.
 
   - Get ahead of regulations: For example, [The European AI Act](https://artificialintelligenceact.eu/), the first comprehensive set of regulations on AI, has mandated the publishing of information about the environmental impact of creating foundational models, with significant penalties for non-compliance. As an AI system designer, you can proactively use model cards mentioned above to compare the environmental footprints of the models you use.
 

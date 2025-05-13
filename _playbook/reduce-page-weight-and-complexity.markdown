@@ -26,7 +26,7 @@ do: |
 
   - Remove unnecessary or unused code (scripts, frameworks, and plugins) and limit their use
 
-  - Remove duplicate modules in JavaSscript bundles
+  - Remove duplicate modules in JavaScript bundles
 
   - Reduce the impact from third parties (check [BuiltWith](https://builtwith.com/) and [Are my third parties green](https://aremythirdpartiesgreen.com/))
 
@@ -62,11 +62,11 @@ success: |
   - 💰 Optimization leading to reduced cloud expenditure
 
 consider: |
-  We encourage you to audit and optimize website or app assets regularly. These environmental, performance considerations and improvements will become an integral part of how cross-functional teams work once you @Include the planet in your brief & @Choose the right metrics . Education will be key for your organization and product squads to keep discovering best practices to apply. For this, nothing is better than to @Organize talks, raise awareness, and promote training and @Set up a climate working group. And don’t forget system inclusivity: design for older devices, slower connections, and question whether features even need an internet connection.
+  We encourage you to audit and optimize website or app assets regularly. These environmental, performance considerations and improvements will become an integral part of how cross-functional teams work once you [**Include the planet in your brief**](include-the-planet-in-your-brief) & [**Choose the right metrics**](choose-the-right-metrics) . Education will be key for your organization and product squads to keep discovering best practices to apply. For this, nothing is better than to [**Organize talks, raise awareness, and promote training**](organize-talks) and [**Set up a climate working group**](set-up-a-climate-working-group). And don’t forget system inclusivity: design for older devices, slower connections, and question whether features even need an internet connection.
 ---
 
 <div class="bigquote">
-  <span class="highlight">"“Cultivate a culture of intentionality, precision and minimalism”"</span>
+  <span class="highlight">“Cultivate a culture of intentionality, precision and minimalism”</span>
 </div>
 
 <p style="text-align:center;">Climate Product Leaders</p>

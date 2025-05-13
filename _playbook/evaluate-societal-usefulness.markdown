@@ -51,4 +51,4 @@ consider: |
   <span class="highlight">“We no longer have the luxury of time or resources to create services that don’t serve a purpose in society.” </span>
 </div>
 
-<p style="text-align:center;">Climate Product Leaders</a></p>
+Climate Product Leaders

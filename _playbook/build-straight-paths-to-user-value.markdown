@@ -26,9 +26,13 @@ do: |
 
   - Ideate and A/B test on early-stage solutions and compare their environmental impact
 
+  - Consider leveraging non-digital or more frugal digital solutions (eg. SMS or email) to replace web or mobile interactions
+
   - Make key features accessible in the navigation and on key pages
 
   - Optimize content for search
+
+  - Restrict nudge features that drive uncontrolled use of the service (infinite content wall, automatic triggering of video content, pop-up notifications, etc.)
 
   - Empower users by providing transparent information and avoiding manipulative dark patterns to encourage them to make informed decisions and reduce their environmental impact.
 

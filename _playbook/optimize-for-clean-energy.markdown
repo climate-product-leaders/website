@@ -34,7 +34,7 @@ success: |
   - 🌍💰 Adoption of cleaner electricity sources for operations
 
 consider: |
-  When aiming to align software operations with energy efficiency, it's imperative to remain up to date on grid trends and innovations. Collaboration with hosting providers can offer insights into best practices and access to clean energy sources. Regularly monitoring and adjusting strategies based on operational needs and grid conditions ensures optimal results. Lastly, @Influence and collaborate with internal stakeholders ensures that developers and stakeholders prioritize these initiatives.
+  When aiming to align software operations with energy efficiency, it's imperative to remain up to date on grid trends and innovations. Collaboration with hosting providers can offer insights into best practices and access to clean energy sources. Regularly monitoring and adjusting strategies based on operational needs and grid conditions ensures optimal results. Lastly, [Influence and collaborate with internal stakeholders](influence-and-collaborate-with-stakeholders) ensures that developers and stakeholders prioritize these initiatives.
 ---
 
 <div class="bigquote">
