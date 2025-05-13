@@ -30,7 +30,27 @@ Contact us [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org)
 
 ### Testimonials
 
-Check on [https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/](https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/)
+<div class="wrapper-testimonials">
+
+  <div class="testimonial">
+    "This course gives a fantastic overview of how to decarbonize software and perfectly suits the Product Management audience. It's very practical and actionable as well. You can start "doing." You can start impacting."
+    
+    <p>&mdash;Nolwenn Godard, VP Climate at Mobioos</p>
+  </div>
+
+  <div class="testimonial">
+    "Taking the Digital Product Decarbonization course at Terra.do has been a game-changer in my journey as a Senior Product Designer. [...] This course opened my eyes to practical strategies for reducing the carbon footprint of the products I design, without compromising on performance or user experience."
+    
+    <p>&mdash;Nelly Hempel, Senior UX Designer / Product Designer</p>
+  </div>
+
+  <div class="testimonial">
+    "Taking this course has truly shifted my perspective on the digital world and its physical impact on the world. This knowledge and insight is invaluable and should be share with the world."
+    
+    <p>&mdash;Aaron Monro, Freelance UX designer</p>
+  </div>
+
+</div>
 
 # Workshops
 
@@ -50,7 +70,7 @@ Contact us [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org)
 
 Let's talk about it and send us an email to [hey@climateproductleaders.org](mailto:hey@climateproductleaders.org)
 
-# Talks & Conferences
+## Talks & Conferences
 
 Inspire and educate your audience on digital sustainability.
 

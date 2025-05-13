@@ -73,6 +73,7 @@ h1, .page-number  {font-size: var(--step-5); line-height: 100%; text-wrap: balan
 
 
 .wrapper, .site-header { border-bottom: none; }
+.wrapper { max-width: calc(60rem - 2rem * 2); }
 
 .hero {
   font-size: 3em;
@@ -147,16 +148,30 @@ a.playbook-anchor:hover { text-decoration: none; color: black; }
 
 .title-casestudy > .arrow-link {margin-top: 2px; margin-left: 0 !important}
 
-.wrapper-casestudies{column-count: 2;gap: 4rem; margin-bottom: 12rem}
-
-
-
-
-@media screen and (max-width: $on-medium) {
-.wrapper-casestudies{column-count: 1;}
-
+.wrapper-casestudies{column-count: 2;gap: 4rem; margin: 4rem 0}
+.wrapper-testimonials {
+  column-count: 3; gap: 1rem;
+  .testimonial {
+    display: block;
+    margin-bottom: 2em;
+    background-color: #BEF9A2;
+    min-height: 23rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    p { margin-top: 1rem; font-style: italic; }
+  }
 }
 
+@media screen and (max-width: $on-medium) {
+  .wrapper-casestudies{column-count: 1;}
+  .wrapper-testimonials{
+    column-count: 1;
+    .testimonial {
+      min-height: 0;
+    }
+  }
+}
 
 
 .grid-chapters > div:first-child{

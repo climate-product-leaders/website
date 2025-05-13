@@ -5,15 +5,6 @@ permalink: /about/
 order: 30
 ---
 
-
-<!-- <div markdown="1" class="about-us-links">
-  <img src="/assets/climate-icons/Email.svg">
-  <a href="mailto:hey@climateproductleaders.org">hey@climateproductleaders.org</a>
-
-  <img src="/assets/climate-icons/LinkedIn.png">
-  <a href="https://www.linkedin.com/company/climate-product-leaders/" target="_blank">Climate Product Leaders on LinkedIn</a>
-</div> -->
-
 ### Our Mission
 
 Climate Product Leaders is an organization dedicated to driving awareness of the climate impact of our digital products within the product community and enabling positive outcomes through developing and teaching related best practices. Climate Product Leaders maintains its flagship Climate Product Management Playbook, as well as organizes several in-person and recorded courses and workshops.
@@ -131,6 +122,12 @@ Sarah Djellouli, Paris France, [LinkedIn](https://www.linkedin.com/in/sarah-djel
 Scott Ogle, Portland OR US, [LinkedIn](https://www.linkedin.com/in/scogle/)   
 Shirish Bhattarai, Stockholm Sweden, [LinkedIn](https://www.linkedin.com/in/shirishbt/)
 
-# Join us
+## Join us
 
 We are a team of passionate volunteers with the same desire to have an impact and create a greener web. If you’d like to support our work, [become an ambassador](/get-involved/). 
+
+## Our Partners
+
+- ClimateAction.tech https://climateaction.tech/
+- Thiga https://www.thiga.co/en/
+- Climate UX group https://rosenfeldmedia.com/community/climate-ux/
