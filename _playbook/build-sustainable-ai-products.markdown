@@ -9,6 +9,8 @@ chapter-tag: sustainable-ai
 
 previous-page: case-study-brussels-environment
 next-page: measure-environmental-impact-of-ai
+
+chapter-page: true
 ---
 
 #### CHAPTER 2

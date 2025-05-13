@@ -5,7 +5,7 @@ order: 240
 icon: /assets/climate-icons/Icon-Collaboration.svg
 number: "17"
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 previous-page: share-your-commitments

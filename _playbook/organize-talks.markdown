@@ -5,7 +5,7 @@ order: 220
 icon: /assets/climate-icons/Icon-Megaphone.svg
 number: "15"
 
-section: Use your influence
+section: Use Your Influence
 chapter-tag: use-your-influence
 
 previous-page: influence-and-collaborate-with-stakeholders

@@ -9,6 +9,8 @@ chapter-tag: become-carbon-aware
 
 next-page: choose-a-sustainable-hosting-provider
 previous-page: case-study-raptor-maps
+
+chapter-page: true
 ---
 #### Chapter 6
 # Become Carbon Aware

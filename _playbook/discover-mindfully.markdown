@@ -11,6 +11,8 @@ chapter-tag: discover-mindfully
 
 next-page: evaluate-societal-usefulness
 previous-page: case-study-ethical-designers
+
+chapter-page: true
 ---
 #### Chapter 4
 # Discover Mindfully

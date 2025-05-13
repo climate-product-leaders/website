@@ -61,4 +61,8 @@ layout: base
 
 {{ content }}
 
+{% if page.chapter-page %}
+  {%- include chapter-contents.html -%}
+{% endif %}
+
 {%- include playbook-nav.html -%}
