@@ -13,7 +13,7 @@ next-page: avoid-obsolescence-tactics
 
 
 matter: |
-  In the era of smartphones ([53%](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of global internet usage is mobile), embracing a mobile-first strategy is helpful for crafting streamlined, light, and efficient digital products. Less space on the screen means less content and fewer features, which directly leads to less data transfer, less energy consumed, and a better user experience because your users can solve their needs faster. 
+  In the era of smartphones ([62%](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of global internet usage is mobile), embracing a mobile-first strategy is helpful for crafting streamlined, light, and efficient digital products. Less space on the screen means less content and fewer features, which directly leads to less data transfer, less energy consumed, and a better user experience because your users can solve their needs faster. 
   
   If your service is currently used primarily on web, you need to do some additional research. Don’t assume that users do not want a mobile version. Current usage could be skewed due to [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). However, if your research shows that your service is most appropriate for web, do not superfluously build a mobile app.
   A mobile-first strategy can ensure that the user experience is optimized for mobile devices, while curbing the necessity for purchasing newer devices and contributing to e-waste. Mobile first is a great approach for many B2C applications and some B2B applications.

@@ -9,7 +9,7 @@ section: Discover Mindfully
 chapter-tag: discover-mindfully
 
 previous-page: reuse-and-recycle
-next-page: design-frugally
+next-page: case-study-soft-disabling
 
 
 matter: |
@@ -20,13 +20,13 @@ matter: |
   In some cases, product teams may be pressured to *optimize for engagement over efficiency* —incentivizing usage behaviors that generate revenue but degrade performance, increase server load, or encourage digital waste (e.g., storing duplicate files, processing unnecessary transactions, or rendering rarely-used UI elements) —ultimately increasing digital waste.  
 
 do: |
-  - Avoid tying pricing directly to system-level ‘work’** that the customer doesn’t control (e.g., CPU cycles, number of background tasks, or memory usage), as this disincentivizes performance improvements and energy-efficient development.
+  - Avoid tying pricing directly to **system-level ‘work’** that the customer doesn’t control (e.g., CPU cycles, number of background tasks, or memory usage), as this disincentivizes performance improvements and energy-efficient development.
 
-  - Consider pricing based on outcomes or tiered access that reflects value**, not raw usage. For instance, instead of charging per compute-hour, charge per successful analysis or decision-support outcome.
+  - Consider pricing based on outcomes or tiered access that reflects **value**, not raw usage. For instance, instead of charging per compute-hour, charge per successful analysis or decision-support outcome.
 
-  - Meter on fundamental and meaningful units of value**—like the number of end-users served or transactions completed—rather than system internals. This keeps technical implementations flexible and open to optimization without risking revenue loss. [Delete old user accounts and old data](delete-old-accounts-and-old-data)
+  - Meter on fundamental and **meaningful units of value**—like the number of end-users served or transactions completed—rather than system internals. This keeps technical implementations flexible and open to optimization without risking revenue loss. [Delete old user accounts and old data](delete-old-accounts-and-old-data)
   
-  - Give users control over feature selection.** Allow them to opt in to resource-intensive features only when needed. This not only improves user experience by avoiding feature bloat or performance drag, but also reduces unnecessary compute load. For example, allow a user to disable real-time syncing or to schedule it during off-peak hours. Check out [Promote green user behaviors](promote-green-user-behaviors)
+  - **Give users control over feature selection.** Allow them to opt in to resource-intensive features only when needed. This not only improves user experience by avoiding feature bloat or performance drag, but also reduces unnecessary compute load. For example, allow a user to disable real-time syncing or to schedule it during off-peak hours. Check out [Promote green user behaviors](promote-green-user-behaviors)
 
   - Bake sustainability into pricing transparency. Let customers understand the environmental and financial implications of their usage. For instance, offering dashboards that show energy estimates alongside billing can help shift behavior toward greener practices.
 

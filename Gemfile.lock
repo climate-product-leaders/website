@@ -14,15 +14,15 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.2)
-    ffi (1.17.2-aarch64-linux-gnu)
+    ffi (1.17.2-aarch64-linux)
     ffi (1.17.2-aarch64-linux-musl)
-    ffi (1.17.2-arm-linux-gnu)
+    ffi (1.17.2-arm-linux)
     ffi (1.17.2-arm-linux-musl)
     ffi (1.17.2-arm64-darwin)
-    ffi (1.17.2-x86-linux-gnu)
+    ffi (1.17.2-x86-linux)
     ffi (1.17.2-x86-linux-musl)
     ffi (1.17.2-x86_64-darwin)
-    ffi (1.17.2-x86_64-linux-gnu)
+    ffi (1.17.2-x86_64-linux)
     ffi (1.17.2-x86_64-linux-musl)
     forwardable-extended (2.6.0)
     google-protobuf (4.30.2)
@@ -75,6 +75,9 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-target-blank (2.0.2)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.5.1)
@@ -91,6 +94,7 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     method_source (1.1.0)
+    mini_portile2 (2.8.9)
     minima (2.5.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -98,12 +102,16 @@ GEM
     multi_json (1.15.0)
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
+    nokogiri (1.18.8)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pry (0.15.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (6.0.2)
+    racc (1.8.1)
     rack (3.1.14)
     rack-protection (4.1.1)
       base64 (>= 0.1.0)
@@ -125,31 +133,31 @@ GEM
     sass-embedded (1.87.0)
       google-protobuf (~> 4.30)
       rake (>= 13)
-    sass-embedded (1.87.0-aarch64-linux-android)
+    sass-embedded (1.87.0-aarch64-linux)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-aarch64-linux-gnu)
+    sass-embedded (1.87.0-aarch64-linux-android)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-aarch64-linux-musl)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-arm-linux-androideabi)
+    sass-embedded (1.87.0-arm-linux)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-arm-linux-gnueabihf)
+    sass-embedded (1.87.0-arm-linux-androideabi)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-arm-linux-musleabihf)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-arm64-darwin)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-riscv64-linux-android)
+    sass-embedded (1.87.0-riscv64-linux)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-riscv64-linux-gnu)
+    sass-embedded (1.87.0-riscv64-linux-android)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-riscv64-linux-musl)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-x86_64-darwin)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-x86_64-linux-android)
+    sass-embedded (1.87.0-x86_64-linux)
       google-protobuf (~> 4.30)
-    sass-embedded (1.87.0-x86_64-linux-gnu)
+    sass-embedded (1.87.0-x86_64-linux-android)
       google-protobuf (~> 4.30)
     sass-embedded (1.87.0-x86_64-linux-musl)
       google-protobuf (~> 4.30)
@@ -174,25 +182,25 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  aarch64-linux
   aarch64-linux-android
-  aarch64-linux-gnu
   aarch64-linux-musl
+  arm-linux
+  arm-linux
   arm-linux-androideabi
-  arm-linux-gnu
-  arm-linux-gnueabihf
   arm-linux-musl
   arm-linux-musleabihf
   arm64-darwin
+  riscv64-linux
   riscv64-linux-android
-  riscv64-linux-gnu
   riscv64-linux-musl
   ruby
   x86-linux
-  x86-linux-gnu
+  x86-linux
   x86-linux-musl
   x86_64-darwin
+  x86_64-linux
   x86_64-linux-android
-  x86_64-linux-gnu
   x86_64-linux-musl
 
 DEPENDENCIES
@@ -203,6 +211,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.12)
   jekyll-redirect-from
+  jekyll-target-blank
   liquid-pry
   logger
   minima (~> 2.5)

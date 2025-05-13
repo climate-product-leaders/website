@@ -44,8 +44,6 @@ Raptor Maps had to ensure that its digital twin could continue to scale with the
 
 ## Impact
 
-### 
-
 **Environmental impact:** 
 
 - Before these improvements, on a conservative estimate, loading the data on a 100 MW solar farm used 0.004 kWh of energy, equating to $0.17 in cloud computing costs, and 0.007 kWh of energy equating to $0.003 in device costs for our users on a daily basis.

@@ -5,6 +5,8 @@ order: 530
 icon: /assets/climate-icons/Icon-Camera.svg
 number: "28"
 
+description: "Optimize media use to cut energy, improve load times, and ensure accessibility."
+
 section: Design Frugally
 chapter-tag: design-frugally
 

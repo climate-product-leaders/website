@@ -19,18 +19,19 @@ do: |
 
   - In the beginning, keep it simple, reliable, and consistent. You, your product team, and the data team must trust the measurements to be credible and convincing when interacting with stakeholders and building momentum toward climate action
 
-  - Consider both absolute metrics (e.g. [CO2e](https://klima.com/blog/CO2-vs-CO2e-what-is-the-difference/)) and relative metrics (CO2e per page, visit, user, employee, revenue generated per campaign/impression, etc.). Using both allows you to correctly assess the net impact of your sustainability strategy.
+  - Consider both absolute metrics (e.g. [CO2e](https://www.techtarget.com/sustainability/feature/CO2-vs-CO2e-What-is-the-difference-and-why-does-it-matter)) and relative metrics (CO2e per page, visit, user, employee, revenue generated per campaign/impression, etc.). Using both allows you to correctly assess the net impact of your sustainability strategy.
 
   - Factor different types of impact: greenhouse gas emissions (in g of CO2e or kg of CO2e), Energy consumption (in kWh), Water consumption (in cl or l), depletion of natural resources, etc.
 
   - Measure data transfer parameters: for example: page weight (in KB), number of requests, and load time (in s). Keep in mind that it will not be the absolute way to measure, but it is a good starting point in your journey.
 
-  - Use the right tools for your context and your needs. See more in [Track your digital footprint](choose-the-right-metrics).
+  - Use the right tools for your context and your needs. See more in [Track your digital footprint](track-your-digital-footprint).
 
   - Report these metrics against OKRs and KPIs. Work with your ESG compliance teams to include those metrics in your company reports.
 
 success: |
   - 🌍 Collective efforts to gauge and reduce ecological footprints
+  
   - **💰 Building trust through transparent data collection and valuable insights**
 
 consider: |

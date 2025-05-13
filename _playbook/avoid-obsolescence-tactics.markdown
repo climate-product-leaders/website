@@ -20,11 +20,11 @@ do: |
 
   - Evaluate how your product features affect device usage for both users and your internal teams. Are your features pushing users to upgrade their devices? Are you supporting older hardware, or unintentionally excluding them? Understanding this helps you reduce e-waste and extend device lifespans.
 
-  - Give preference to standard and proven technologies, ideally open source (more in[Reuse and recycle](reuse-and-recycle)).
+  - Give preference to standard and proven technologies, ideally open source (more in [Reuse and recycle](reuse-and-recycle)).
 
   - Design software for backward compatibility with older devices and operating systems.
 
-  - Choose PWAs (Progressive Web Apps), usable both on mobile and desktop, instead of Native Apps (which usually require the latest OS and newer devices). It helps in reducing data storage, physical infrastructure, and data transmission. It also streamlines the design, development, and testing processes.
+  - Choose [PWAs (Progressive Web Apps)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps), usable both on mobile and desktop, instead of Native Apps (which usually require the latest OS and newer devices). It helps in reducing data storage, physical infrastructure, and data transmission. It also streamlines the design, development, and testing processes.
 
   - Be mindful of obsolescence tactics (hardware limitations, software updates) and avoid deceptive patterns (upgrade pop-ups, feature gating).
 
@@ -32,7 +32,7 @@ do: |
 
   - Educate users on best practices to extend devices’ lifespan.
 
-  - If you manage equipment, ensure that it is repairable and upgradable. If you don’t, [Influence your value chain and partners](influence-your-value-chain-and-partners) to promote best practices from the circular economy.
+  - If you manage equipment, ensure that it is repairable and upgradable. If you don’t, [Influence your value chain and partners](influence-your-value-chain) to promote best practices from the circular economy.
 
   - Build with a [progressive enhancement lens](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement) rather than a graceful degradation lens.
     - Build for the most basic browser and develop advanced functionalities that can automatically render in browsers that support them. This ensures inclusivity, reduces device strain, and minimizes environmental impact—without compromising usability.

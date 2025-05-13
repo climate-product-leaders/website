@@ -8,8 +8,8 @@ number: "38"
 section: Become Carbon Aware
 chapter-tag: become-carbon-aware
 
-previous-page: optimize-for-clean-energy
-next-page: conclusion
+previous-page: case-study-salesforce-servers
+next-page: case-study-illumina
 
 
 matter: |

@@ -49,7 +49,7 @@ A big thank you to our amazing reviewers who provided thoughtful feedback and ch
 <ul style="list-style:none;text-align:left;font-size:1.1em;margin-left:0;line-height:1.8em">
   <li>Alexander Crease, Product Sustainability Engineer - CarbonGraph</li>
   <li>Ava Yazdani, Senior Product Manager - Mission-Driven Tech</li>
-  <li>Ayushi Raj Bhatt, Product Manager Intern - Orama</li>
+  <li>Ayushi Raj Bhatt, AI Product Manager - University of California, Berkeley</li>
   <li>Boris Gamazaychikov, Head of AI Sustainability - Salesforce</li>
   <li>Catherine Kherian, Senior Product Manager - PowerFlex</li>
   <li>Cécile Peres, Senior Product Manager - Thiga</li>
