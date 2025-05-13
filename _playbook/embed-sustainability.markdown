@@ -9,6 +9,8 @@ chapter-tag: embed-rituals
 
 next-page: measure-environmental-impact
 previous-page: acknowledgements
+
+chapter-page: true
 ---
 
 #### CHAPTER 1

@@ -9,6 +9,8 @@ chapter-tag: design-frugally
 
 next-page: build-straight-paths-to-user-value
 previous-page: align-business-models-with-sustainability-goals
+
+chapter-page: true
 ---
 #### Chapter 5
 # Design Frugally

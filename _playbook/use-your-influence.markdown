@@ -5,8 +5,11 @@ order: 200
 icon: "/assets/climate-icons/use-your-influence.png"
 section: Use your influence
 chapter-tag: use-your-influence
+
 previous-page: case-study-salesforce-llm
 next-page: set-up-a-climate-working-group
+
+chapter-page: true
 ---
 
 #### CHAPTER 3
