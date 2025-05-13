@@ -8,7 +8,7 @@ section: Embed Sustainability Into Your Rituals
 chapter-tag: embed-rituals
 
 next-page: measure-environmental-impact
-previous-page: foreword-and-introduction
+previous-page: acknowledgements
 ---
 
 #### CHAPTER 1
