@@ -28,15 +28,15 @@ As digital product managers, we embody this group of thoughtful, committed leade
 
 ### **Key Takeaways from This Playbook**
 
-✅ Sustainability is a core product principle, not an extra feature – Climate responsibility must be built into product strategy from the start, not added as an afterthought.
+- Sustainability is a core product principle, not an extra feature – Climate responsibility must be built into product strategy from the start, not added as an afterthought.
 
-✅ Efficiency drives both sustainability and performance – Reducing data waste, optimizing infrastructure, and designing for energy efficiency creates better products that are also better for the planet.
+- Efficiency drives both sustainability and performance – Reducing data waste, optimizing infrastructure, and designing for energy efficiency creates better products that are also better for the planet.
 
-✅ Measurement leads to progress – Understanding carbon footprints, energy consumption, and data efficiency empowers product teams to set tangible sustainability goals and track improvements that drive changes.
+- Measurement leads to progress – Understanding carbon footprints, energy consumption, and data efficiency empowers product teams to set tangible sustainability goals and track improvements that drive changes.
 
-✅ Cross-functional collaboration is key – No single team can drive sustainability alone. Success demands alignment between product managers, engineers, designers, and executives to create lasting, organization-wide change.
+- Cross-functional collaboration is key – No single team can drive sustainability alone. Success demands alignment between product managers, engineers, designers, and executives to create lasting, organization-wide change.
 
-✅ Small improvements lead to long-term transformation – Sustainability in product management is an ongoing journey. Each optimized workflow, energy-efficient feature, and responsible infrastructure choice brings us closer to a net-zero digital economy.
+- Small improvements lead to long-term transformation – Sustainability in product management is an ongoing journey. Each optimized workflow, energy-efficient feature, and responsible infrastructure choice brings us closer to a net-zero digital economy.
 
 ## **The Path Forward**
 

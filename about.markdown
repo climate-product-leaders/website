@@ -126,6 +126,13 @@ We are a team of passionate volunteers with the same desire to have an impact an
 
 ## Our Partners
 
-- ClimateAction.tech https://climateaction.tech/
-- Thiga https://www.thiga.co/en/
-- Climate UX group https://rosenfeldmedia.com/community/climate-ux/
+- [ClimateAction.tech](https://climateaction.tech/)
+- [Thiga](https://www.thiga.co/en/)
+- [Climate UX group](https://rosenfeldmedia.com/community/climate-ux/)
+
+## Contributors
+
+- Vanille Windenberger - Brand and Playbook Designer, [LinkedIn](https://www.linkedin.com/in/vanillewindenberger/)   
+- Victor Kurc - Illustrator, [LinkedIn](https://www.linkedin.com/in/victor-kurc/)   
+- Abigail Blake - V1 Editor, [LinkedIn](hhttps://www.linkedin.com/in/abigail-blake-5a29917b/)   
+- Nicolas Paries - Web Designer, [LinkedIn](https://www.linkedin.com/in/nicolasparies/)   

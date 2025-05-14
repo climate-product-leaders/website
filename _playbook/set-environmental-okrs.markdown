@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "Set environmental OKRs (Ojbectives and Key Results)"
+title: "Set environmental OKRs (Objectives and Key Results)"
 order: 50
 icon: /assets/climate-icons/Icon-Briefcase.svg
 number: "04"

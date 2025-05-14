@@ -11,8 +11,6 @@ The Climate Product Leaders Ambassador Program aims to engage influential indivi
 
 ***Our vision is to inspire product leaders around the world to take nature positive actions through a set of best practices and practical solutions.***
 
-[How to become a Climate-Conscious Product Manager](https://drive.google.com/file/d/1zVpLDiHen_-Py2SJSeM6E-cDvTT1UeGZ/view)
-
 ### 2\. Ambassador Roles and Responsibilities
 
 Ambassadors are expected to:

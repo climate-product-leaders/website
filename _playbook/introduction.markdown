@@ -36,21 +36,15 @@ Each chapter breaks down the core principles of climate-conscious product manage
 The digital industry has traditionally prioritized speed, scale, and efficiency—but today, it must equally embrace sustainability. The Climate-Conscious Product Management Playbook empowers product leaders to future-proof their digital products while reducing their environmental impact.
  
 By implementing this playbook's strategies, product teams can:
- 
-✅ Reduce the carbon footprint of digital products without sacrificing performance or usability.
- 
-✅ Optimize infrastructure, data usage, and design for more sustainable, efficient experiences.
- 
-✅ Embed sustainability into product strategies, KPIs, and business models to create lasting change.
- 
-✅ Drive organizational change through collaboration across product, engineering, design, and leadership teams.
- 
-✅ Leverage AI responsibly to achieve innovation while maintaining energy efficiency.
+- Reduce the carbon footprint of digital products without sacrificing performance or usability.
+- Optimize infrastructure, data usage, and design for more sustainable, efficient experiences.
+- Embed sustainability into product strategies, KPIs, and business models to create lasting change.
+- Drive organizational change through collaboration across product, engineering, design, and leadership teams.
+- Leverage AI responsibly to achieve innovation while maintaining energy efficiency.
  
 As digital product leaders, we sit at the intersection of innovation, efficiency, and impact. While this playbook centers on climate-conscious thinking, its principles extend far beyond environmental benefits. 
  
 By optimizing for sustainability, product teams unlock competitive advantages while driving business success:
- 
 - Cost savings through smarter, energy-efficient infrastructure and reduced resource consumption.
 - Improved user experience through leaner, faster digital products that create direct paths to value.
 - Revenue growth through enhanced acquisition, engagement, and retention—particularly among customers who value responsible, efficient digital experiences.

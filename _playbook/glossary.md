@@ -2,7 +2,6 @@
 layout: best-practice
 title: "Glossary"
 order: 710
-icon: /assets/climate-icons/Icon-Briefcase.svg
 
 section: Conclusion and Glossary
 chapter-tag: use-your-influence

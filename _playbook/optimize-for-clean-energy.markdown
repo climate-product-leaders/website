@@ -38,5 +38,5 @@ consider: |
 ---
 
 <div class="bigquote">
-  <span class="highlight">Electricity Maps is a useful platform that provides a simple way to understand carbon intensity based on location and timing. It helps you realize that the same digital experience can lead to significantly different carbon emissions depending on where your users are accessing it.</span>
+  <span class="highlight"><a href="https://www.electricitymaps.com/">Electricity Maps</a> is a useful platform that provides a simple way to understand carbon intensity based on location and timing. It helps you realize that the same digital experience can lead to significantly different carbon emissions depending on where your users are accessing it.</span>
 </div>
