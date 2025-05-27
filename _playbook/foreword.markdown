@@ -22,7 +22,7 @@ next-page: introduction
 
   <p>Product managers work with some of the most strategic levers for ensuring climate is a central part of business decisions—using their existing position and expertise, they can support their companies in becoming climate champions. In this playbook, you will learn that to be a product leader is to also be a climate leader.</p>
 
-  <p>—Aiyana Bodi <br>Manager, Employee Engagement, Drawdown Business Coalition</p>
+  <p>—Aiyana Bodi <br>Manager, Employee Engagement, Project Drawdown</p>
 
   <p></p>
 </div>
