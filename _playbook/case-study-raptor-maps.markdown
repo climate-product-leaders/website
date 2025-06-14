@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Case Study: Raptor Maps"
-order: 580
+order: 590
 
 section: Design Frugally
 chapter-tag: design-frugally

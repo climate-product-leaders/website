@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Kill unused features"
-order: 555
+order: 560
 icon: /assets/climate-icons/Icon-Poubelle.svg
 number: "31"
 

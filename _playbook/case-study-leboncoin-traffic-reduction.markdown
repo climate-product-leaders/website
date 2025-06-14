@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Case Study: Leboncoin: Optimizing API Traffic for Sustainability and Performance"
-order: 560
+order: 555
 
 description: "How Leboncoin cut 3.6B API calls, reduced emissions, and boosted performance through sustainable engineering practices."
 

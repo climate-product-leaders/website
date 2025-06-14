@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Implement caching, batching, and offline features"
-order: 570
+order: 580
 icon: /assets/climate-icons/Icon-Database.svg
 number: "33"
 
