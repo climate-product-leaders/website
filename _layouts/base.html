@@ -2,8 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-  {% assign chapter_slug = page.section | downcase | replace: ' ', '-' | remove: "'\"" %}
-  <body class="{{ chapter_slug }}">
+  <body class="{{ page.chapter-tag }}">
 
     {%- include header.html -%}
     <main class="page-content" aria-label="Content">

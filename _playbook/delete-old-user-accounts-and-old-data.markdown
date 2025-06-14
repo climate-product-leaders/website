@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Delete old user accounts and old data"
-order: 560
+order: 570
 icon: /assets/climate-icons/Icon-Remove.svg
 number: "32"
 
