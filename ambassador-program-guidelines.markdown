@@ -76,7 +76,7 @@ Ambassadors will receive updates on the program's performance and have the oppor
 
 Interested individuals can apply by:
 
-1. ⭐[**Submitting this form**](https://forms.gle/Go7d9AcwagPEX6Jy7) ⭐ outlining their experience and motivation  
+1. ⭐[**Submitting this form**](https://forms.gle/2uSWk1ssxeGajP2t9) ⭐ outlining their experience and motivation  
 2. Providing examples of their work or influence in relevant fields  
 3. Participating in a short interview with the CPL team
 
