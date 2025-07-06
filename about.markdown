@@ -112,14 +112,14 @@ Katie Mayo, Bishop CA US, [LinkedIn](https://www.linkedin.com/in/katiemayo/)
 Matthieu Duprey, Paris France, [LinkedIn](https://www.linkedin.com/in/matthieuduprey/)  
 Nolwenn Godard, San Francisco CA US, [LinkedIn](https://www.linkedin.com/in/nolwenngodard/)   
 Pascal Joly, San Jose CA US, [LinkedIn](https://www.linkedin.com/in/pascaljoly/)  
-Sarah Djellouli, Paris France, [LinkedIn](https://www.linkedin.com/in/sarah-djellouli-strategy-business-development-impact/)  
 Scott Ogle, Portland OR US, [LinkedIn](https://www.linkedin.com/in/scogle/)   
 
 ## Our Ambassador Alumni
-Anita Schüttler, Breman Germany, [LinkedIn](https://www.linkedin.com/in/anita-sch%C3%BCttler-21095023b/) 
-Francesco Fullone, Faenza Italy, [LinkedIn](https://www.linkedin.com/in/fullo/)   
-Joyce Lipener, San Francisco CA US, [LinkedIn](https://www.linkedin.com/in/jlipener/)   
-Nathan Shuler, New York NY US, [LinkedIn](https://www.linkedin.com/in/nathanshuler/)  
+Anita Schüttler, Breman Germany, [LinkedIn](https://www.linkedin.com/in/anita-sch%C3%BCttler-21095023b/)
+Francesco Fullone, Faenza Italy, [LinkedIn](https://www.linkedin.com/in/fullo/)
+Joyce Lipener, San Francisco CA US, [LinkedIn](https://www.linkedin.com/in/jlipener/)
+Nathan Shuler, New York NY US, [LinkedIn](https://www.linkedin.com/in/nathanshuler/)
+Sarah Djellouli, Paris France, [LinkedIn](https://www.linkedin.com/in/sarah-djellouli-strategy-business-development-impact/)
 Shirish Bhattarai, Stockholm Sweden, [LinkedIn](https://www.linkedin.com/in/shirishbt/)
 
 ## Join us
