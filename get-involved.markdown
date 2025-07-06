@@ -18,7 +18,7 @@ As a **Climate Product Leaders Ambassador**, you’ll:
 ### Ready to get started?
 
 1. Read our [Ambassador Program Guidelines](/ambassador-program/)
-2. [Submit your application](https://forms.gle/Go7d9AcwagPEX6Jy7)
+2. [Submit your application](https://forms.gle/2uSWk1ssxeGajP2t9)
 3. The CPL team will review your application and follow up soon!
 
 ### Donate
